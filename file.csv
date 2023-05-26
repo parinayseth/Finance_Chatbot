@@ -1,0 +1,14 @@
+date,amount,category,description
+2021-01-01,1000,income,salary
+2021-01-02,-50,groceries,milk and eggs
+2021-01-03,-100,entertainment,movie tickets
+2021-01-04,-20,transportation,bus fare
+2021-01-05,-200,bills,electricity bill
+2021-01-06,-30,groceries,bread and cheese
+2021-01-07,-150,clothing,new shoes
+2021-01-08,-40,healthcare,prescription drugs
+2021-01-09,-80,education,online course
+2021-01-10,-60,entertainment,pizza delivery
+2021-01-11,-25,transportation,taxi ride
+2021-01-12,-300,bills,internet bill
+2021-01-13,-50,groceries,fruits and vegetables
