@@ -1,0 +1,6080 @@
+[
+    {
+        "date": "2021-01-01",
+        "amount": 1000,
+        "category": "income",
+        "description": "salary"
+    },
+    {
+        "date": "2021-01-02",
+        "amount": -50,
+        "category": "groceries",
+        "description": "milk and eggs"
+    },
+    {
+        "date": "2021-01-03",
+        "amount": -100,
+        "category": "entertainment",
+        "description": "movie tickets"
+    },
+    {
+        "date": "2021-01-04",
+        "amount": -20,
+        "category": "transportation",
+        "description": "bus fare"
+    },
+    {
+        "date": "2021-01-05",
+        "amount": -200,
+        "category": "bills",
+        "description": "electricity bill"
+    },
+    {
+        "date": "2021-01-06",
+        "amount": -30,
+        "category": "groceries",
+        "description": "bread and cheese"
+    },
+    {
+        "date": "2021-01-07",
+        "amount": -150,
+        "category": "clothing",
+        "description": "new shoes"
+    },
+    {
+        "date": "2021-01-08",
+        "amount": -40,
+        "category": "healthcare",
+        "description": "prescription drugs"
+    },
+    {
+        "date": "2021-01-09",
+        "amount": -80,
+        "category": "education",
+        "description": "online course"
+    },
+    {
+        "date": "2021-01-10",
+        "amount": -60,
+        "category": "entertainment",
+        "description": "pizza delivery"
+    },
+    {
+        "date": "2021-01-11",
+        "amount": -25,
+        "category": "transportation",
+        "description": "taxi ride"
+    },
+    {
+        "date": "2021-01-12",
+        "amount": -300,
+        "category": "bills",
+        "description": "internet bill"
+    },
+    {
+        "date": "2021-01-13",
+        "amount": -50,
+        "category": "groceries",
+        "description": "fruits and vegetables"
+    },
+    {
+        "date": "2023-04-27",
+        "amount": 2456,
+        "category": "clothing",
+        "description": "Shoe shopping"
+    },
+    {
+        "date": "2023-03-17",
+        "amount": -1036,
+        "category": "clothing",
+        "description": "Shoe shopping"
+    },
+    {
+        "date": "2022-12-03",
+        "amount": 2088,
+        "category": "clothing",
+        "description": "Clothing purchase"
+    },
+    {
+        "date": "2022-09-24",
+        "amount": 1159,
+        "category": "education",
+        "description": "Books and materials"
+    },
+    {
+        "date": "2023-03-15",
+        "amount": -4915,
+        "category": "clothing",
+        "description": "Shoe shopping"
+    },
+    {
+        "date": "2023-05-14",
+        "amount": -1593,
+        "category": "clothing",
+        "description": "Clothing purchase"
+    },
+    {
+        "date": "2022-10-17",
+        "amount": -325,
+        "category": "clothing",
+        "description": "Fashion accessories"
+    },
+    {
+        "date": "2022-09-07",
+        "amount": -1930,
+        "category": "income",
+        "description": "Rent"
+    },
+    {
+        "date": "2023-01-30",
+        "amount": -4963,
+        "category": "groceries",
+        "description": "Food expenses"
+    },
+    {
+        "date": "2023-03-25",
+        "amount": -4637,
+        "category": "transportation",
+        "description": "Gasoline expenses"
+    },
+    {
+        "date": "2023-05-16",
+        "amount": 3401,
+        "category": "transportation",
+        "description": "Taxi ride"
+    },
+    {
+        "date": "2022-07-25",
+        "amount": -530,
+        "category": "healthcare",
+        "description": "Healthcare services"
+    },
+    {
+        "date": "2022-07-08",
+        "amount": 4002,
+        "category": "clothing",
+        "description": "Shoe shopping"
+    },
+    {
+        "date": "2022-08-13",
+        "amount": -2904,
+        "category": "income",
+        "description": "Rent"
+    },
+    {
+        "date": "2022-09-05",
+        "amount": 182,
+        "category": "bills",
+        "description": "Phone bill"
+    },
+    {
+        "date": "2023-03-29",
+        "amount": -4514,
+        "category": "education",
+        "description": "Tuition fees"
+    },
+    {
+        "date": "2023-03-31",
+        "amount": -2904,
+        "category": "education",
+        "description": "Online course payment"
+    },
+    {
+        "date": "2022-07-01",
+        "amount": 2116,
+        "category": "transportation",
+        "description": "Public transportation fare"
+    },
+    {
+        "date": "2022-08-15",
+        "amount": -2353,
+        "category": "entertainment",
+        "description": "Movie tickets"
+    },
+    {
+        "date": "2023-03-22",
+        "amount": -1536,
+        "category": "transportation",
+        "description": "Gasoline expenses"
+    },
+    {
+        "date": "2022-08-03",
+        "amount": -805,
+        "category": "groceries",
+        "description": "Supermarket purchase"
+    },
+    {
+        "date": "2023-04-14",
+        "amount": 4173,
+        "category": "groceries",
+        "description": "Supermarket purchase"
+    },
+    {
+        "date": "2023-04-24",
+        "amount": 2358,
+        "category": "clothing",
+        "description": "Fashion accessories"
+    },
+    {
+        "date": "2022-10-07",
+        "amount": -1078,
+        "category": "entertainment",
+        "description": "Concert tickets"
+    },
+    {
+        "date": "2022-09-23",
+        "amount": 45,
+        "category": "clothing",
+        "description": "Clothing purchase"
+    },
+    {
+        "date": "2023-05-08",
+        "amount": 3782,
+        "category": "entertainment",
+        "description": "Concert tickets"
+    },
+    {
+        "date": "2022-07-25",
+        "amount": -2553,
+        "category": "healthcare",
+        "description": "Pharmacy purchase"
+    },
+    {
+        "date": "2022-06-02",
+        "amount": -4843,
+        "category": "healthcare",
+        "description": "Pharmacy purchase"
+    },
+    {
+        "date": "2022-10-17",
+        "amount": 4927,
+        "category": "education",
+        "description": "Books and materials"
+    },
+    {
+        "date": "2022-10-11",
+        "amount": -2445,
+        "category": "income",
+        "description": "Trade Market"
+    },
+    {
+        "date": "2022-08-12",
+        "amount": 2529,
+        "category": "income",
+        "description": "Rent"
+    },
+    {
+        "date": "2023-03-04",
+        "amount": 4307,
+        "category": "healthcare",
+        "description": "Pharmacy purchase"
+    },
+    {
+        "date": "2022-07-04",
+        "amount": -2528,
+        "category": "groceries",
+        "description": "Supermarket purchase"
+    },
+    {
+        "date": "2023-03-18",
+        "amount": 1494,
+        "category": "clothing",
+        "description": "Clothing purchase"
+    },
+    {
+        "date": "2023-03-20",
+        "amount": -2802,
+        "category": "healthcare",
+        "description": "Pharmacy purchase"
+    },
+    {
+        "date": "2022-07-22",
+        "amount": 1847,
+        "category": "income",
+        "description": "salary"
+    },
+    {
+        "date": "2023-05-15",
+        "amount": -1403,
+        "category": "healthcare",
+        "description": "Medical expenses"
+    },
+    {
+        "date": "2022-08-08",
+        "amount": -3293,
+        "category": "entertainment",
+        "description": "Movie tickets"
+    },
+    {
+        "date": "2022-08-05",
+        "amount": -3248,
+        "category": "education",
+        "description": "Tuition fees"
+    },
+    {
+        "date": "2023-02-23",
+        "amount": 4595,
+        "category": "groceries",
+        "description": "Grocery shopping"
+    },
+    {
+        "date": "2022-06-14",
+        "amount": 2413,
+        "category": "education",
+        "description": "Books and materials"
+    },
+    {
+        "date": "2023-01-27",
+        "amount": -3824,
+        "category": "groceries",
+        "description": "Food expenses"
+    },
+    {
+        "date": "2023-04-24",
+        "amount": 1255,
+        "category": "education",
+        "description": "Tuition fees"
+    },
+    {
+        "date": "2022-07-15",
+        "amount": 4888,
+        "category": "clothing",
+        "description": "Fashion accessories"
+    },
+    {
+        "date": "2022-05-30",
+        "amount": 4145,
+        "category": "groceries",
+        "description": "Food expenses"
+    },
+    {
+        "date": "2023-04-08",
+        "amount": -3739,
+        "category": "income",
+        "description": "salary"
+    },
+    {
+        "date": "2023-02-03",
+        "amount": 666,
+        "category": "income",
+        "description": "Rent"
+    },
+    {
+        "date": "2023-05-10",
+        "amount": -2865,
+        "category": "clothing",
+        "description": "Clothing purchase"
+    },
+    {
+        "date": "2022-08-25",
+        "amount": -231,
+        "category": "entertainment",
+        "description": "Amusement park visit"
+    },
+    {
+        "date": "2023-04-16",
+        "amount": 3150,
+        "category": "healthcare",
+        "description": "Pharmacy purchase"
+    },
+    {
+        "date": "2023-02-11",
+        "amount": -4609,
+        "category": "healthcare",
+        "description": "Medical expenses"
+    },
+    {
+        "date": "2023-01-23",
+        "amount": 1762,
+        "category": "groceries",
+        "description": "Food expenses"
+    },
+    {
+        "date": "2023-05-06",
+        "amount": 2022,
+        "category": "transportation",
+        "description": "Gasoline expenses"
+    },
+    {
+        "date": "2022-09-19",
+        "amount": 2385,
+        "category": "clothing",
+        "description": "Shoe shopping"
+    },
+    {
+        "date": "2022-06-09",
+        "amount": 4868,
+        "category": "entertainment",
+        "description": "Movie tickets"
+    },
+    {
+        "date": "2022-11-25",
+        "amount": -4128,
+        "category": "healthcare",
+        "description": "Medical expenses"
+    },
+    {
+        "date": "2022-09-03",
+        "amount": -3404,
+        "category": "bills",
+        "description": "Internet bill"
+    },
+    {
+        "date": "2022-10-29",
+        "amount": -2542,
+        "category": "healthcare",
+        "description": "Medical expenses"
+    },
+    {
+        "date": "2023-01-30",
+        "amount": -2259,
+        "category": "clothing",
+        "description": "Clothing purchase"
+    },
+    {
+        "date": "2023-03-04",
+        "amount": 2499,
+        "category": "education",
+        "description": "Tuition fees"
+    },
+    {
+        "date": "2023-05-17",
+        "amount": 4384,
+        "category": "bills",
+        "description": "Utility bill payment"
+    },
+    {
+        "date": "2022-07-25",
+        "amount": -2377,
+        "category": "bills",
+        "description": "Utility bill payment"
+    },
+    {
+        "date": "2022-06-06",
+        "amount": -3912,
+        "category": "groceries",
+        "description": "Grocery shopping"
+    },
+    {
+        "date": "2022-11-30",
+        "amount": 4528,
+        "category": "groceries",
+        "description": "Food expenses"
+    },
+    {
+        "date": "2023-04-08",
+        "amount": 1556,
+        "category": "income",
+        "description": "Trade Market"
+    },
+    {
+        "date": "2022-07-29",
+        "amount": 3269,
+        "category": "transportation",
+        "description": "Public transportation fare"
+    },
+    {
+        "date": "2023-05-23",
+        "amount": -1233,
+        "category": "healthcare",
+        "description": "Medical expenses"
+    },
+    {
+        "date": "2023-03-30",
+        "amount": 60,
+        "category": "income",
+        "description": "salary"
+    },
+    {
+        "date": "2022-11-04",
+        "amount": -3999,
+        "category": "healthcare",
+        "description": "Healthcare services"
+    },
+    {
+        "date": "2022-07-10",
+        "amount": -3008,
+        "category": "clothing",
+        "description": "Fashion accessories"
+    },
+    {
+        "date": "2022-08-21",
+        "amount": -1765,
+        "category": "education",
+        "description": "Tuition fees"
+    },
+    {
+        "date": "2023-03-06",
+        "amount": -2285,
+        "category": "groceries",
+        "description": "Supermarket purchase"
+    },
+    {
+        "date": "2022-05-26",
+        "amount": 2148,
+        "category": "income",
+        "description": "salary"
+    },
+    {
+        "date": "2022-10-25",
+        "amount": 774,
+        "category": "clothing",
+        "description": "Clothing purchase"
+    },
+    {
+        "date": "2023-02-15",
+        "amount": 1464,
+        "category": "bills",
+        "description": "Utility bill payment"
+    },
+    {
+        "date": "2023-05-05",
+        "amount": 3553,
+        "category": "education",
+        "description": "Books and materials"
+    },
+    {
+        "date": "2023-05-20",
+        "amount": 1462,
+        "category": "healthcare",
+        "description": "Pharmacy purchase"
+    },
+    {
+        "date": "2022-06-10",
+        "amount": 1540,
+        "category": "transportation",
+        "description": "Public transportation fare"
+    },
+    {
+        "date": "2023-03-24",
+        "amount": 1814,
+        "category": "education",
+        "description": "Books and materials"
+    },
+    {
+        "date": "2023-01-20",
+        "amount": -1089,
+        "category": "clothing",
+        "description": "Clothing purchase"
+    },
+    {
+        "date": "2022-10-25",
+        "amount": 4318,
+        "category": "healthcare",
+        "description": "Medical expenses"
+    },
+    {
+        "date": "2023-02-19",
+        "amount": -1970,
+        "category": "transportation",
+        "description": "Public transportation fare"
+    },
+    {
+        "date": "2022-08-05",
+        "amount": 2507,
+        "category": "income",
+        "description": "salary"
+    },
+    {
+        "date": "2023-04-25",
+        "amount": -2944,
+        "category": "transportation",
+        "description": "Gasoline expenses"
+    },
+    {
+        "date": "2023-05-22",
+        "amount": 2663,
+        "category": "income",
+        "description": "Trade Market"
+    },
+    {
+        "date": "2022-06-15",
+        "amount": -3430,
+        "category": "entertainment",
+        "description": "Movie tickets"
+    },
+    {
+        "date": "2022-07-16",
+        "amount": -1706,
+        "category": "entertainment",
+        "description": "Movie tickets"
+    },
+    {
+        "date": "2022-07-21",
+        "amount": 4760,
+        "category": "income",
+        "description": "Rent"
+    },
+    {
+        "date": "2023-01-18",
+        "amount": -2328,
+        "category": "education",
+        "description": "Online course payment"
+    },
+    {
+        "date": "2023-04-22",
+        "amount": 2103,
+        "category": "healthcare",
+        "description": "Healthcare services"
+    },
+    {
+        "date": "2023-02-16",
+        "amount": 1465,
+        "category": "bills",
+        "description": "Phone bill"
+    },
+    {
+        "date": "2022-12-22",
+        "amount": 575,
+        "category": "clothing",
+        "description": "Fashion accessories"
+    },
+    {
+        "date": "2022-09-22",
+        "amount": 730,
+        "category": "clothing",
+        "description": "Clothing purchase"
+    },
+    {
+        "date": "2023-01-21",
+        "amount": 4860,
+        "category": "bills",
+        "description": "Phone bill"
+    },
+    {
+        "date": "2023-02-22",
+        "amount": -4992,
+        "category": "clothing",
+        "description": "Fashion accessories"
+    },
+    {
+        "date": "2023-01-03",
+        "amount": -2042,
+        "category": "education",
+        "description": "Online course payment"
+    },
+    {
+        "date": "2023-02-25",
+        "amount": 3399,
+        "category": "entertainment",
+        "description": "Movie tickets"
+    },
+    {
+        "date": "2022-07-01",
+        "amount": 4966,
+        "category": "income",
+        "description": "Rent"
+    },
+    {
+        "date": "2022-10-03",
+        "amount": 602,
+        "category": "education",
+        "description": "Books and materials"
+    },
+    {
+        "date": "2023-02-14",
+        "amount": 2933,
+        "category": "bills",
+        "description": "Phone bill"
+    },
+    {
+        "date": "2022-09-19",
+        "amount": -4379,
+        "category": "entertainment",
+        "description": "Movie tickets"
+    },
+    {
+        "date": "2023-03-13",
+        "amount": -2180,
+        "category": "entertainment",
+        "description": "Concert tickets"
+    },
+    {
+        "date": "2023-03-04",
+        "amount": -1332,
+        "category": "education",
+        "description": "Books and materials"
+    },
+    {
+        "date": "2023-05-14",
+        "amount": -2600,
+        "category": "clothing",
+        "description": "Shoe shopping"
+    },
+    {
+        "date": "2022-09-26",
+        "amount": -92,
+        "category": "bills",
+        "description": "Phone bill"
+    },
+    {
+        "date": "2023-01-28",
+        "amount": -789,
+        "category": "entertainment",
+        "description": "Amusement park visit"
+    },
+    {
+        "date": "2022-08-29",
+        "amount": -651,
+        "category": "transportation",
+        "description": "Gasoline expenses"
+    },
+    {
+        "date": "2022-11-02",
+        "amount": 3983,
+        "category": "income",
+        "description": "Rent"
+    },
+    {
+        "date": "2022-12-19",
+        "amount": -1927,
+        "category": "transportation",
+        "description": "Public transportation fare"
+    },
+    {
+        "date": "2022-05-25",
+        "amount": 55,
+        "category": "transportation",
+        "description": "Gasoline expenses"
+    },
+    {
+        "date": "2023-02-17",
+        "amount": -3029,
+        "category": "income",
+        "description": "Rent"
+    },
+    {
+        "date": "2023-01-14",
+        "amount": -1316,
+        "category": "income",
+        "description": "Trade Market"
+    },
+    {
+        "date": "2022-10-03",
+        "amount": 2740,
+        "category": "transportation",
+        "description": "Taxi ride"
+    },
+    {
+        "date": "2023-02-03",
+        "amount": -3445,
+        "category": "healthcare",
+        "description": "Healthcare services"
+    },
+    {
+        "date": "2023-05-17",
+        "amount": 1197,
+        "category": "clothing",
+        "description": "Fashion accessories"
+    },
+    {
+        "date": "2022-09-20",
+        "amount": 4269,
+        "category": "education",
+        "description": "Tuition fees"
+    },
+    {
+        "date": "2022-10-13",
+        "amount": -956,
+        "category": "entertainment",
+        "description": "Amusement park visit"
+    },
+    {
+        "date": "2022-08-28",
+        "amount": -1586,
+        "category": "healthcare",
+        "description": "Pharmacy purchase"
+    },
+    {
+        "date": "2022-10-17",
+        "amount": -1735,
+        "category": "entertainment",
+        "description": "Movie tickets"
+    },
+    {
+        "date": "2023-05-17",
+        "amount": 3086,
+        "category": "healthcare",
+        "description": "Medical expenses"
+    },
+    {
+        "date": "2023-03-15",
+        "amount": -3646,
+        "category": "income",
+        "description": "Trade Market"
+    },
+    {
+        "date": "2022-07-17",
+        "amount": 1728,
+        "category": "entertainment",
+        "description": "Concert tickets"
+    },
+    {
+        "date": "2023-03-27",
+        "amount": -818,
+        "category": "entertainment",
+        "description": "Concert tickets"
+    },
+    {
+        "date": "2023-04-28",
+        "amount": 146,
+        "category": "groceries",
+        "description": "Food expenses"
+    },
+    {
+        "date": "2023-03-06",
+        "amount": 2940,
+        "category": "education",
+        "description": "Online course payment"
+    },
+    {
+        "date": "2022-12-23",
+        "amount": 2562,
+        "category": "groceries",
+        "description": "Supermarket purchase"
+    },
+    {
+        "date": "2023-05-18",
+        "amount": 4155,
+        "category": "bills",
+        "description": "Utility bill payment"
+    },
+    {
+        "date": "2022-10-16",
+        "amount": -812,
+        "category": "transportation",
+        "description": "Public transportation fare"
+    },
+    {
+        "date": "2023-05-06",
+        "amount": 2632,
+        "category": "transportation",
+        "description": "Public transportation fare"
+    },
+    {
+        "date": "2022-10-02",
+        "amount": -451,
+        "category": "clothing",
+        "description": "Fashion accessories"
+    },
+    {
+        "date": "2022-12-14",
+        "amount": -1216,
+        "category": "bills",
+        "description": "Internet bill"
+    },
+    {
+        "date": "2022-12-19",
+        "amount": -2302,
+        "category": "groceries",
+        "description": "Supermarket purchase"
+    },
+    {
+        "date": "2023-02-25",
+        "amount": -2941,
+        "category": "clothing",
+        "description": "Shoe shopping"
+    },
+    {
+        "date": "2023-04-23",
+        "amount": -3077,
+        "category": "clothing",
+        "description": "Fashion accessories"
+    },
+    {
+        "date": "2022-07-13",
+        "amount": -160,
+        "category": "clothing",
+        "description": "Fashion accessories"
+    },
+    {
+        "date": "2022-08-31",
+        "amount": -3515,
+        "category": "bills",
+        "description": "Phone bill"
+    },
+    {
+        "date": "2023-01-16",
+        "amount": 4623,
+        "category": "healthcare",
+        "description": "Healthcare services"
+    },
+    {
+        "date": "2022-07-21",
+        "amount": 3715,
+        "category": "healthcare",
+        "description": "Healthcare services"
+    },
+    {
+        "date": "2023-04-02",
+        "amount": -2468,
+        "category": "entertainment",
+        "description": "Movie tickets"
+    },
+    {
+        "date": "2022-12-26",
+        "amount": 661,
+        "category": "groceries",
+        "description": "Grocery shopping"
+    },
+    {
+        "date": "2023-05-14",
+        "amount": -1110,
+        "category": "clothing",
+        "description": "Clothing purchase"
+    },
+    {
+        "date": "2023-02-28",
+        "amount": -2418,
+        "category": "education",
+        "description": "Online course payment"
+    },
+    {
+        "date": "2023-02-25",
+        "amount": -4940,
+        "category": "healthcare",
+        "description": "Healthcare services"
+    },
+    {
+        "date": "2023-02-21",
+        "amount": 3923,
+        "category": "education",
+        "description": "Online course payment"
+    },
+    {
+        "date": "2022-11-02",
+        "amount": 4817,
+        "category": "bills",
+        "description": "Internet bill"
+    },
+    {
+        "date": "2022-10-26",
+        "amount": 3963,
+        "category": "transportation",
+        "description": "Public transportation fare"
+    },
+    {
+        "date": "2022-09-21",
+        "amount": 1559,
+        "category": "healthcare",
+        "description": "Pharmacy purchase"
+    },
+    {
+        "date": "2022-07-17",
+        "amount": 1341,
+        "category": "clothing",
+        "description": "Shoe shopping"
+    },
+    {
+        "date": "2023-05-03",
+        "amount": -2171,
+        "category": "clothing",
+        "description": "Fashion accessories"
+    },
+    {
+        "date": "2022-11-26",
+        "amount": 1932,
+        "category": "income",
+        "description": "salary"
+    },
+    {
+        "date": "2022-11-10",
+        "amount": 1626,
+        "category": "transportation",
+        "description": "Gasoline expenses"
+    },
+    {
+        "date": "2022-07-11",
+        "amount": 2196,
+        "category": "healthcare",
+        "description": "Pharmacy purchase"
+    },
+    {
+        "date": "2023-05-22",
+        "amount": -1219,
+        "category": "income",
+        "description": "Rent"
+    },
+    {
+        "date": "2023-02-19",
+        "amount": 397,
+        "category": "clothing",
+        "description": "Fashion accessories"
+    },
+    {
+        "date": "2023-03-12",
+        "amount": 2032,
+        "category": "income",
+        "description": "Trade Market"
+    },
+    {
+        "date": "2023-05-22",
+        "amount": 788,
+        "category": "clothing",
+        "description": "Fashion accessories"
+    },
+    {
+        "date": "2023-01-15",
+        "amount": -4564,
+        "category": "transportation",
+        "description": "Gasoline expenses"
+    },
+    {
+        "date": "2023-01-28",
+        "amount": -1389,
+        "category": "education",
+        "description": "Online course payment"
+    },
+    {
+        "date": "2022-11-22",
+        "amount": -2623,
+        "category": "income",
+        "description": "Rent"
+    },
+    {
+        "date": "2022-09-15",
+        "amount": -4376,
+        "category": "entertainment",
+        "description": "Movie tickets"
+    },
+    {
+        "date": "2022-07-07",
+        "amount": 363,
+        "category": "entertainment",
+        "description": "Concert tickets"
+    },
+    {
+        "date": "2023-03-02",
+        "amount": 1108,
+        "category": "income",
+        "description": "salary"
+    },
+    {
+        "date": "2022-10-08",
+        "amount": 381,
+        "category": "education",
+        "description": "Online course payment"
+    },
+    {
+        "date": "2022-08-18",
+        "amount": -2321,
+        "category": "groceries",
+        "description": "Grocery shopping"
+    },
+    {
+        "date": "2023-01-03",
+        "amount": -1846,
+        "category": "transportation",
+        "description": "Gasoline expenses"
+    },
+    {
+        "date": "2022-11-02",
+        "amount": -3621,
+        "category": "clothing",
+        "description": "Shoe shopping"
+    },
+    {
+        "date": "2022-07-18",
+        "amount": 2112,
+        "category": "groceries",
+        "description": "Food expenses"
+    },
+    {
+        "date": "2023-04-04",
+        "amount": -2944,
+        "category": "groceries",
+        "description": "Food expenses"
+    },
+    {
+        "date": "2022-09-30",
+        "amount": 941,
+        "category": "transportation",
+        "description": "Public transportation fare"
+    },
+    {
+        "date": "2022-12-21",
+        "amount": -2553,
+        "category": "transportation",
+        "description": "Taxi ride"
+    },
+    {
+        "date": "2022-10-31",
+        "amount": -4452,
+        "category": "bills",
+        "description": "Phone bill"
+    },
+    {
+        "date": "2022-07-25",
+        "amount": -4024,
+        "category": "income",
+        "description": "salary"
+    },
+    {
+        "date": "2023-02-01",
+        "amount": 2455,
+        "category": "transportation",
+        "description": "Taxi ride"
+    },
+    {
+        "date": "2022-07-04",
+        "amount": -2014,
+        "category": "healthcare",
+        "description": "Healthcare services"
+    },
+    {
+        "date": "2023-02-24",
+        "amount": 1769,
+        "category": "income",
+        "description": "Rent"
+    },
+    {
+        "date": "2023-02-16",
+        "amount": 2494,
+        "category": "entertainment",
+        "description": "Movie tickets"
+    },
+    {
+        "date": "2022-07-09",
+        "amount": -4667,
+        "category": "entertainment",
+        "description": "Amusement park visit"
+    },
+    {
+        "date": "2023-01-24",
+        "amount": -1200,
+        "category": "transportation",
+        "description": "Public transportation fare"
+    },
+    {
+        "date": "2022-08-27",
+        "amount": -225,
+        "category": "entertainment",
+        "description": "Movie tickets"
+    },
+    {
+        "date": "2023-01-13",
+        "amount": -942,
+        "category": "healthcare",
+        "description": "Pharmacy purchase"
+    },
+    {
+        "date": "2022-06-29",
+        "amount": 494,
+        "category": "income",
+        "description": "Rent"
+    },
+    {
+        "date": "2022-12-30",
+        "amount": 3601,
+        "category": "entertainment",
+        "description": "Concert tickets"
+    },
+    {
+        "date": "2023-01-03",
+        "amount": -63,
+        "category": "groceries",
+        "description": "Supermarket purchase"
+    },
+    {
+        "date": "2022-06-03",
+        "amount": 1844,
+        "category": "entertainment",
+        "description": "Concert tickets"
+    },
+    {
+        "date": "2023-04-14",
+        "amount": -1076,
+        "category": "education",
+        "description": "Tuition fees"
+    },
+    {
+        "date": "2022-09-07",
+        "amount": 916,
+        "category": "entertainment",
+        "description": "Concert tickets"
+    },
+    {
+        "date": "2023-05-12",
+        "amount": 3391,
+        "category": "groceries",
+        "description": "Food expenses"
+    },
+    {
+        "date": "2022-06-01",
+        "amount": -2490,
+        "category": "entertainment",
+        "description": "Concert tickets"
+    },
+    {
+        "date": "2022-12-29",
+        "amount": -2923,
+        "category": "healthcare",
+        "description": "Medical expenses"
+    },
+    {
+        "date": "2022-10-09",
+        "amount": -3404,
+        "category": "clothing",
+        "description": "Fashion accessories"
+    },
+    {
+        "date": "2023-05-02",
+        "amount": 4853,
+        "category": "clothing",
+        "description": "Clothing purchase"
+    },
+    {
+        "date": "2022-06-27",
+        "amount": 4941,
+        "category": "transportation",
+        "description": "Taxi ride"
+    },
+    {
+        "date": "2023-01-17",
+        "amount": -1136,
+        "category": "education",
+        "description": "Tuition fees"
+    },
+    {
+        "date": "2022-06-08",
+        "amount": -3259,
+        "category": "income",
+        "description": "Rent"
+    },
+    {
+        "date": "2022-09-03",
+        "amount": 2870,
+        "category": "groceries",
+        "description": "Supermarket purchase"
+    },
+    {
+        "date": "2022-06-24",
+        "amount": -3946,
+        "category": "transportation",
+        "description": "Taxi ride"
+    },
+    {
+        "date": "2022-12-31",
+        "amount": 554,
+        "category": "bills",
+        "description": "Phone bill"
+    },
+    {
+        "date": "2023-03-26",
+        "amount": -1271,
+        "category": "clothing",
+        "description": "Fashion accessories"
+    },
+    {
+        "date": "2022-09-11",
+        "amount": 1315,
+        "category": "clothing",
+        "description": "Fashion accessories"
+    },
+    {
+        "date": "2022-09-26",
+        "amount": -3977,
+        "category": "entertainment",
+        "description": "Amusement park visit"
+    },
+    {
+        "date": "2022-06-26",
+        "amount": 4800,
+        "category": "education",
+        "description": "Online course payment"
+    },
+    {
+        "date": "2023-01-02",
+        "amount": 1093,
+        "category": "income",
+        "description": "salary"
+    },
+    {
+        "date": "2022-06-25",
+        "amount": 2307,
+        "category": "bills",
+        "description": "Internet bill"
+    },
+    {
+        "date": "2022-06-05",
+        "amount": -4350,
+        "category": "transportation",
+        "description": "Gasoline expenses"
+    },
+    {
+        "date": "2022-11-10",
+        "amount": -2721,
+        "category": "clothing",
+        "description": "Clothing purchase"
+    },
+    {
+        "date": "2023-05-24",
+        "amount": -1314,
+        "category": "groceries",
+        "description": "Supermarket purchase"
+    },
+    {
+        "date": "2023-05-01",
+        "amount": -597,
+        "category": "entertainment",
+        "description": "Concert tickets"
+    },
+    {
+        "date": "2022-11-02",
+        "amount": 1713,
+        "category": "entertainment",
+        "description": "Amusement park visit"
+    },
+    {
+        "date": "2023-04-22",
+        "amount": -4603,
+        "category": "income",
+        "description": "salary"
+    },
+    {
+        "date": "2023-04-24",
+        "amount": -510,
+        "category": "healthcare",
+        "description": "Medical expenses"
+    },
+    {
+        "date": "2022-08-20",
+        "amount": -3802,
+        "category": "entertainment",
+        "description": "Movie tickets"
+    },
+    {
+        "date": "2023-01-17",
+        "amount": 4985,
+        "category": "bills",
+        "description": "Phone bill"
+    },
+    {
+        "date": "2022-07-04",
+        "amount": 2754,
+        "category": "clothing",
+        "description": "Clothing purchase"
+    },
+    {
+        "date": "2022-08-23",
+        "amount": -2685,
+        "category": "clothing",
+        "description": "Clothing purchase"
+    },
+    {
+        "date": "2023-01-07",
+        "amount": -1404,
+        "category": "bills",
+        "description": "Internet bill"
+    },
+    {
+        "date": "2022-08-26",
+        "amount": 3313,
+        "category": "clothing",
+        "description": "Fashion accessories"
+    },
+    {
+        "date": "2023-02-25",
+        "amount": -3844,
+        "category": "income",
+        "description": "Trade Market"
+    },
+    {
+        "date": "2023-02-13",
+        "amount": 2203,
+        "category": "bills",
+        "description": "Phone bill"
+    },
+    {
+        "date": "2022-07-02",
+        "amount": -793,
+        "category": "bills",
+        "description": "Phone bill"
+    },
+    {
+        "date": "2023-02-05",
+        "amount": 2049,
+        "category": "income",
+        "description": "salary"
+    },
+    {
+        "date": "2022-08-08",
+        "amount": -375,
+        "category": "education",
+        "description": "Books and materials"
+    },
+    {
+        "date": "2023-05-14",
+        "amount": 3773,
+        "category": "income",
+        "description": "Rent"
+    },
+    {
+        "date": "2022-11-04",
+        "amount": -4377,
+        "category": "groceries",
+        "description": "Grocery shopping"
+    },
+    {
+        "date": "2022-10-03",
+        "amount": 2455,
+        "category": "clothing",
+        "description": "Clothing purchase"
+    },
+    {
+        "date": "2022-12-04",
+        "amount": 46,
+        "category": "bills",
+        "description": "Utility bill payment"
+    },
+    {
+        "date": "2022-05-31",
+        "amount": 3167,
+        "category": "clothing",
+        "description": "Fashion accessories"
+    },
+    {
+        "date": "2022-11-07",
+        "amount": 3620,
+        "category": "income",
+        "description": "Rent"
+    },
+    {
+        "date": "2023-04-03",
+        "amount": 313,
+        "category": "income",
+        "description": "salary"
+    },
+    {
+        "date": "2022-09-16",
+        "amount": 2286,
+        "category": "education",
+        "description": "Online course payment"
+    },
+    {
+        "date": "2023-02-28",
+        "amount": 4328,
+        "category": "healthcare",
+        "description": "Healthcare services"
+    },
+    {
+        "date": "2022-11-24",
+        "amount": -4132,
+        "category": "healthcare",
+        "description": "Healthcare services"
+    },
+    {
+        "date": "2022-06-03",
+        "amount": 153,
+        "category": "transportation",
+        "description": "Gasoline expenses"
+    },
+    {
+        "date": "2022-11-14",
+        "amount": -2745,
+        "category": "healthcare",
+        "description": "Healthcare services"
+    },
+    {
+        "date": "2022-08-03",
+        "amount": -2204,
+        "category": "education",
+        "description": "Books and materials"
+    },
+    {
+        "date": "2022-06-27",
+        "amount": 1135,
+        "category": "clothing",
+        "description": "Shoe shopping"
+    },
+    {
+        "date": "2022-09-27",
+        "amount": -4942,
+        "category": "education",
+        "description": "Books and materials"
+    },
+    {
+        "date": "2022-11-03",
+        "amount": -1657,
+        "category": "income",
+        "description": "Trade Market"
+    },
+    {
+        "date": "2022-06-23",
+        "amount": -3673,
+        "category": "transportation",
+        "description": "Gasoline expenses"
+    },
+    {
+        "date": "2022-10-24",
+        "amount": -2731,
+        "category": "education",
+        "description": "Books and materials"
+    },
+    {
+        "date": "2022-10-04",
+        "amount": 3790,
+        "category": "healthcare",
+        "description": "Healthcare services"
+    },
+    {
+        "date": "2022-09-15",
+        "amount": -2199,
+        "category": "education",
+        "description": "Books and materials"
+    },
+    {
+        "date": "2022-09-17",
+        "amount": 4302,
+        "category": "healthcare",
+        "description": "Medical expenses"
+    },
+    {
+        "date": "2023-03-14",
+        "amount": -903,
+        "category": "transportation",
+        "description": "Public transportation fare"
+    },
+    {
+        "date": "2023-01-07",
+        "amount": 1211,
+        "category": "transportation",
+        "description": "Gasoline expenses"
+    },
+    {
+        "date": "2023-04-05",
+        "amount": 406,
+        "category": "income",
+        "description": "Trade Market"
+    },
+    {
+        "date": "2023-05-18",
+        "amount": 2088,
+        "category": "groceries",
+        "description": "Food expenses"
+    },
+    {
+        "date": "2022-08-05",
+        "amount": 3823,
+        "category": "education",
+        "description": "Tuition fees"
+    },
+    {
+        "date": "2022-06-03",
+        "amount": 2417,
+        "category": "bills",
+        "description": "Utility bill payment"
+    },
+    {
+        "date": "2022-06-17",
+        "amount": -40,
+        "category": "entertainment",
+        "description": "Concert tickets"
+    },
+    {
+        "date": "2022-12-02",
+        "amount": 3216,
+        "category": "education",
+        "description": "Tuition fees"
+    },
+    {
+        "date": "2022-06-20",
+        "amount": 1827,
+        "category": "income",
+        "description": "Rent"
+    },
+    {
+        "date": "2022-12-23",
+        "amount": -559,
+        "category": "clothing",
+        "description": "Shoe shopping"
+    },
+    {
+        "date": "2023-03-18",
+        "amount": 481,
+        "category": "transportation",
+        "description": "Public transportation fare"
+    },
+    {
+        "date": "2023-05-06",
+        "amount": -1587,
+        "category": "education",
+        "description": "Online course payment"
+    },
+    {
+        "date": "2023-05-06",
+        "amount": 2315,
+        "category": "clothing",
+        "description": "Clothing purchase"
+    },
+    {
+        "date": "2022-11-26",
+        "amount": -1211,
+        "category": "clothing",
+        "description": "Shoe shopping"
+    },
+    {
+        "date": "2023-04-20",
+        "amount": 2752,
+        "category": "entertainment",
+        "description": "Amusement park visit"
+    },
+    {
+        "date": "2022-11-17",
+        "amount": -4224,
+        "category": "entertainment",
+        "description": "Movie tickets"
+    },
+    {
+        "date": "2022-06-17",
+        "amount": -2100,
+        "category": "clothing",
+        "description": "Shoe shopping"
+    },
+    {
+        "date": "2023-01-07",
+        "amount": -1559,
+        "category": "transportation",
+        "description": "Public transportation fare"
+    },
+    {
+        "date": "2022-12-20",
+        "amount": -2578,
+        "category": "clothing",
+        "description": "Fashion accessories"
+    },
+    {
+        "date": "2023-03-07",
+        "amount": -2050,
+        "category": "healthcare",
+        "description": "Medical expenses"
+    },
+    {
+        "date": "2022-09-18",
+        "amount": 4246,
+        "category": "bills",
+        "description": "Phone bill"
+    },
+    {
+        "date": "2022-12-14",
+        "amount": -648,
+        "category": "bills",
+        "description": "Utility bill payment"
+    },
+    {
+        "date": "2022-10-19",
+        "amount": 1779,
+        "category": "clothing",
+        "description": "Shoe shopping"
+    },
+    {
+        "date": "2022-06-08",
+        "amount": 1429,
+        "category": "clothing",
+        "description": "Shoe shopping"
+    },
+    {
+        "date": "2022-06-17",
+        "amount": 1096,
+        "category": "transportation",
+        "description": "Taxi ride"
+    },
+    {
+        "date": "2022-08-26",
+        "amount": -1566,
+        "category": "healthcare",
+        "description": "Medical expenses"
+    },
+    {
+        "date": "2023-04-17",
+        "amount": 43,
+        "category": "transportation",
+        "description": "Taxi ride"
+    },
+    {
+        "date": "2022-06-01",
+        "amount": -3093,
+        "category": "clothing",
+        "description": "Fashion accessories"
+    },
+    {
+        "date": "2023-02-26",
+        "amount": -2922,
+        "category": "healthcare",
+        "description": "Healthcare services"
+    },
+    {
+        "date": "2022-07-26",
+        "amount": 507,
+        "category": "transportation",
+        "description": "Public transportation fare"
+    },
+    {
+        "date": "2022-10-12",
+        "amount": 4252,
+        "category": "entertainment",
+        "description": "Amusement park visit"
+    },
+    {
+        "date": "2022-10-08",
+        "amount": -4293,
+        "category": "healthcare",
+        "description": "Medical expenses"
+    },
+    {
+        "date": "2022-09-16",
+        "amount": 3081,
+        "category": "groceries",
+        "description": "Grocery shopping"
+    },
+    {
+        "date": "2023-05-20",
+        "amount": 202,
+        "category": "income",
+        "description": "Rent"
+    },
+    {
+        "date": "2022-09-23",
+        "amount": -85,
+        "category": "bills",
+        "description": "Internet bill"
+    },
+    {
+        "date": "2022-10-30",
+        "amount": 3704,
+        "category": "education",
+        "description": "Books and materials"
+    },
+    {
+        "date": "2023-03-22",
+        "amount": 1503,
+        "category": "entertainment",
+        "description": "Amusement park visit"
+    },
+    {
+        "date": "2023-05-11",
+        "amount": -4487,
+        "category": "healthcare",
+        "description": "Medical expenses"
+    },
+    {
+        "date": "2023-01-15",
+        "amount": -4113,
+        "category": "clothing",
+        "description": "Fashion accessories"
+    },
+    {
+        "date": "2022-09-23",
+        "amount": -257,
+        "category": "groceries",
+        "description": "Grocery shopping"
+    },
+    {
+        "date": "2022-06-11",
+        "amount": -4506,
+        "category": "bills",
+        "description": "Utility bill payment"
+    },
+    {
+        "date": "2022-05-26",
+        "amount": 490,
+        "category": "bills",
+        "description": "Utility bill payment"
+    },
+    {
+        "date": "2022-09-05",
+        "amount": 260,
+        "category": "education",
+        "description": "Online course payment"
+    },
+    {
+        "date": "2023-05-16",
+        "amount": -1646,
+        "category": "income",
+        "description": "Trade Market"
+    },
+    {
+        "date": "2023-04-01",
+        "amount": 1558,
+        "category": "clothing",
+        "description": "Fashion accessories"
+    },
+    {
+        "date": "2022-12-10",
+        "amount": -851,
+        "category": "bills",
+        "description": "Phone bill"
+    },
+    {
+        "date": "2022-11-12",
+        "amount": 4628,
+        "category": "healthcare",
+        "description": "Pharmacy purchase"
+    },
+    {
+        "date": "2022-08-26",
+        "amount": -3840,
+        "category": "clothing",
+        "description": "Fashion accessories"
+    },
+    {
+        "date": "2022-12-05",
+        "amount": 4905,
+        "category": "transportation",
+        "description": "Gasoline expenses"
+    },
+    {
+        "date": "2023-04-17",
+        "amount": -4974,
+        "category": "bills",
+        "description": "Utility bill payment"
+    },
+    {
+        "date": "2022-07-10",
+        "amount": 39,
+        "category": "income",
+        "description": "Rent"
+    },
+    {
+        "date": "2022-08-14",
+        "amount": 38,
+        "category": "entertainment",
+        "description": "Concert tickets"
+    },
+    {
+        "date": "2023-05-15",
+        "amount": -353,
+        "category": "income",
+        "description": "Trade Market"
+    },
+    {
+        "date": "2022-07-21",
+        "amount": -3881,
+        "category": "healthcare",
+        "description": "Medical expenses"
+    },
+    {
+        "date": "2022-11-11",
+        "amount": 4397,
+        "category": "bills",
+        "description": "Utility bill payment"
+    },
+    {
+        "date": "2022-10-16",
+        "amount": -4746,
+        "category": "bills",
+        "description": "Phone bill"
+    },
+    {
+        "date": "2022-07-30",
+        "amount": 621,
+        "category": "clothing",
+        "description": "Fashion accessories"
+    },
+    {
+        "date": "2022-08-03",
+        "amount": -343,
+        "category": "entertainment",
+        "description": "Concert tickets"
+    },
+    {
+        "date": "2022-06-26",
+        "amount": -2491,
+        "category": "entertainment",
+        "description": "Concert tickets"
+    },
+    {
+        "date": "2022-06-29",
+        "amount": 2066,
+        "category": "groceries",
+        "description": "Grocery shopping"
+    },
+    {
+        "date": "2022-07-07",
+        "amount": 4410,
+        "category": "income",
+        "description": "Trade Market"
+    },
+    {
+        "date": "2023-01-20",
+        "amount": 3137,
+        "category": "clothing",
+        "description": "Fashion accessories"
+    },
+    {
+        "date": "2023-02-13",
+        "amount": -2100,
+        "category": "groceries",
+        "description": "Supermarket purchase"
+    },
+    {
+        "date": "2023-05-13",
+        "amount": -3139,
+        "category": "healthcare",
+        "description": "Medical expenses"
+    },
+    {
+        "date": "2023-01-14",
+        "amount": -1645,
+        "category": "entertainment",
+        "description": "Movie tickets"
+    },
+    {
+        "date": "2023-05-07",
+        "amount": -4027,
+        "category": "groceries",
+        "description": "Grocery shopping"
+    },
+    {
+        "date": "2022-11-14",
+        "amount": 3692,
+        "category": "transportation",
+        "description": "Taxi ride"
+    },
+    {
+        "date": "2022-10-19",
+        "amount": 3852,
+        "category": "clothing",
+        "description": "Fashion accessories"
+    },
+    {
+        "date": "2023-03-13",
+        "amount": -3518,
+        "category": "groceries",
+        "description": "Food expenses"
+    },
+    {
+        "date": "2023-04-10",
+        "amount": 2684,
+        "category": "bills",
+        "description": "Utility bill payment"
+    },
+    {
+        "date": "2022-08-23",
+        "amount": -2922,
+        "category": "education",
+        "description": "Tuition fees"
+    },
+    {
+        "date": "2022-06-02",
+        "amount": 1931,
+        "category": "education",
+        "description": "Books and materials"
+    },
+    {
+        "date": "2023-04-26",
+        "amount": 2644,
+        "category": "transportation",
+        "description": "Gasoline expenses"
+    },
+    {
+        "date": "2022-09-17",
+        "amount": 4532,
+        "category": "education",
+        "description": "Books and materials"
+    },
+    {
+        "date": "2022-09-05",
+        "amount": -4080,
+        "category": "education",
+        "description": "Books and materials"
+    },
+    {
+        "date": "2022-07-16",
+        "amount": -410,
+        "category": "education",
+        "description": "Tuition fees"
+    },
+    {
+        "date": "2023-04-13",
+        "amount": 3818,
+        "category": "groceries",
+        "description": "Supermarket purchase"
+    },
+    {
+        "date": "2022-05-28",
+        "amount": 1211,
+        "category": "clothing",
+        "description": "Fashion accessories"
+    },
+    {
+        "date": "2022-09-15",
+        "amount": 518,
+        "category": "clothing",
+        "description": "Fashion accessories"
+    },
+    {
+        "date": "2022-11-07",
+        "amount": -1017,
+        "category": "transportation",
+        "description": "Taxi ride"
+    },
+    {
+        "date": "2022-11-08",
+        "amount": -4518,
+        "category": "education",
+        "description": "Tuition fees"
+    },
+    {
+        "date": "2023-04-19",
+        "amount": -2843,
+        "category": "groceries",
+        "description": "Supermarket purchase"
+    },
+    {
+        "date": "2023-03-16",
+        "amount": -3538,
+        "category": "transportation",
+        "description": "Gasoline expenses"
+    },
+    {
+        "date": "2023-02-15",
+        "amount": 3315,
+        "category": "groceries",
+        "description": "Supermarket purchase"
+    },
+    {
+        "date": "2022-06-27",
+        "amount": 583,
+        "category": "groceries",
+        "description": "Supermarket purchase"
+    },
+    {
+        "date": "2022-08-06",
+        "amount": -1764,
+        "category": "income",
+        "description": "Rent"
+    },
+    {
+        "date": "2023-03-14",
+        "amount": 1288,
+        "category": "bills",
+        "description": "Phone bill"
+    },
+    {
+        "date": "2023-04-10",
+        "amount": 3577,
+        "category": "entertainment",
+        "description": "Amusement park visit"
+    },
+    {
+        "date": "2022-07-13",
+        "amount": 3625,
+        "category": "groceries",
+        "description": "Supermarket purchase"
+    },
+    {
+        "date": "2022-09-02",
+        "amount": -1425,
+        "category": "healthcare",
+        "description": "Medical expenses"
+    },
+    {
+        "date": "2023-04-14",
+        "amount": 4065,
+        "category": "clothing",
+        "description": "Shoe shopping"
+    },
+    {
+        "date": "2022-07-28",
+        "amount": -469,
+        "category": "healthcare",
+        "description": "Healthcare services"
+    },
+    {
+        "date": "2023-01-13",
+        "amount": -231,
+        "category": "transportation",
+        "description": "Public transportation fare"
+    },
+    {
+        "date": "2023-05-21",
+        "amount": -2010,
+        "category": "healthcare",
+        "description": "Medical expenses"
+    },
+    {
+        "date": "2022-09-17",
+        "amount": -1207,
+        "category": "bills",
+        "description": "Phone bill"
+    },
+    {
+        "date": "2022-11-16",
+        "amount": -1208,
+        "category": "education",
+        "description": "Online course payment"
+    },
+    {
+        "date": "2023-01-14",
+        "amount": -1244,
+        "category": "entertainment",
+        "description": "Concert tickets"
+    },
+    {
+        "date": "2022-08-08",
+        "amount": -4416,
+        "category": "education",
+        "description": "Books and materials"
+    },
+    {
+        "date": "2022-07-14",
+        "amount": -939,
+        "category": "groceries",
+        "description": "Food expenses"
+    },
+    {
+        "date": "2023-03-10",
+        "amount": -3650,
+        "category": "bills",
+        "description": "Internet bill"
+    },
+    {
+        "date": "2023-04-01",
+        "amount": 4932,
+        "category": "education",
+        "description": "Online course payment"
+    },
+    {
+        "date": "2022-09-16",
+        "amount": -3251,
+        "category": "bills",
+        "description": "Phone bill"
+    },
+    {
+        "date": "2022-12-05",
+        "amount": 595,
+        "category": "groceries",
+        "description": "Food expenses"
+    },
+    {
+        "date": "2023-01-31",
+        "amount": 3970,
+        "category": "income",
+        "description": "Trade Market"
+    },
+    {
+        "date": "2023-02-23",
+        "amount": 3837,
+        "category": "transportation",
+        "description": "Gasoline expenses"
+    },
+    {
+        "date": "2023-04-23",
+        "amount": -3819,
+        "category": "education",
+        "description": "Tuition fees"
+    },
+    {
+        "date": "2023-05-14",
+        "amount": -777,
+        "category": "entertainment",
+        "description": "Concert tickets"
+    },
+    {
+        "date": "2022-11-01",
+        "amount": -4729,
+        "category": "groceries",
+        "description": "Grocery shopping"
+    },
+    {
+        "date": "2023-02-03",
+        "amount": 4739,
+        "category": "healthcare",
+        "description": "Medical expenses"
+    },
+    {
+        "date": "2022-05-30",
+        "amount": -4484,
+        "category": "clothing",
+        "description": "Clothing purchase"
+    },
+    {
+        "date": "2022-06-22",
+        "amount": -1078,
+        "category": "clothing",
+        "description": "Shoe shopping"
+    },
+    {
+        "date": "2023-04-17",
+        "amount": -81,
+        "category": "bills",
+        "description": "Internet bill"
+    },
+    {
+        "date": "2022-07-14",
+        "amount": -1159,
+        "category": "transportation",
+        "description": "Public transportation fare"
+    },
+    {
+        "date": "2022-07-18",
+        "amount": 1228,
+        "category": "education",
+        "description": "Books and materials"
+    },
+    {
+        "date": "2022-07-23",
+        "amount": 3099,
+        "category": "entertainment",
+        "description": "Amusement park visit"
+    },
+    {
+        "date": "2022-11-21",
+        "amount": 1452,
+        "category": "bills",
+        "description": "Utility bill payment"
+    },
+    {
+        "date": "2022-06-22",
+        "amount": 3544,
+        "category": "healthcare",
+        "description": "Pharmacy purchase"
+    },
+    {
+        "date": "2023-05-25",
+        "amount": 4463,
+        "category": "education",
+        "description": "Books and materials"
+    },
+    {
+        "date": "2023-04-09",
+        "amount": 616,
+        "category": "income",
+        "description": "Rent"
+    },
+    {
+        "date": "2023-01-22",
+        "amount": 4851,
+        "category": "education",
+        "description": "Tuition fees"
+    },
+    {
+        "date": "2023-02-27",
+        "amount": -3187,
+        "category": "transportation",
+        "description": "Taxi ride"
+    },
+    {
+        "date": "2022-09-01",
+        "amount": -3878,
+        "category": "income",
+        "description": "Trade Market"
+    },
+    {
+        "date": "2022-11-06",
+        "amount": 4316,
+        "category": "healthcare",
+        "description": "Healthcare services"
+    },
+    {
+        "date": "2023-02-01",
+        "amount": -3145,
+        "category": "transportation",
+        "description": "Gasoline expenses"
+    },
+    {
+        "date": "2023-04-22",
+        "amount": -465,
+        "category": "bills",
+        "description": "Utility bill payment"
+    },
+    {
+        "date": "2023-01-03",
+        "amount": 2941,
+        "category": "clothing",
+        "description": "Clothing purchase"
+    },
+    {
+        "date": "2022-07-07",
+        "amount": 3820,
+        "category": "bills",
+        "description": "Utility bill payment"
+    },
+    {
+        "date": "2022-08-01",
+        "amount": 3346,
+        "category": "education",
+        "description": "Books and materials"
+    },
+    {
+        "date": "2022-08-19",
+        "amount": 721,
+        "category": "transportation",
+        "description": "Public transportation fare"
+    },
+    {
+        "date": "2022-08-29",
+        "amount": -129,
+        "category": "income",
+        "description": "Rent"
+    },
+    {
+        "date": "2023-04-03",
+        "amount": 3582,
+        "category": "income",
+        "description": "salary"
+    },
+    {
+        "date": "2022-06-27",
+        "amount": -4783,
+        "category": "education",
+        "description": "Books and materials"
+    },
+    {
+        "date": "2022-10-23",
+        "amount": 3517,
+        "category": "entertainment",
+        "description": "Concert tickets"
+    },
+    {
+        "date": "2022-11-04",
+        "amount": 857,
+        "category": "healthcare",
+        "description": "Medical expenses"
+    },
+    {
+        "date": "2022-05-31",
+        "amount": -352,
+        "category": "bills",
+        "description": "Phone bill"
+    },
+    {
+        "date": "2023-04-06",
+        "amount": -2147,
+        "category": "groceries",
+        "description": "Supermarket purchase"
+    },
+    {
+        "date": "2022-05-28",
+        "amount": -2572,
+        "category": "bills",
+        "description": "Utility bill payment"
+    },
+    {
+        "date": "2023-01-12",
+        "amount": 3352,
+        "category": "bills",
+        "description": "Utility bill payment"
+    },
+    {
+        "date": "2022-09-01",
+        "amount": -4601,
+        "category": "income",
+        "description": "salary"
+    },
+    {
+        "date": "2022-11-08",
+        "amount": -2685,
+        "category": "clothing",
+        "description": "Clothing purchase"
+    },
+    {
+        "date": "2022-07-15",
+        "amount": 4636,
+        "category": "transportation",
+        "description": "Public transportation fare"
+    },
+    {
+        "date": "2022-12-22",
+        "amount": -1117,
+        "category": "education",
+        "description": "Online course payment"
+    },
+    {
+        "date": "2023-02-15",
+        "amount": 4736,
+        "category": "income",
+        "description": "salary"
+    },
+    {
+        "date": "2022-12-09",
+        "amount": 3810,
+        "category": "clothing",
+        "description": "Clothing purchase"
+    },
+    {
+        "date": "2022-07-28",
+        "amount": -3045,
+        "category": "groceries",
+        "description": "Food expenses"
+    },
+    {
+        "date": "2023-04-14",
+        "amount": -2355,
+        "category": "groceries",
+        "description": "Grocery shopping"
+    },
+    {
+        "date": "2023-04-07",
+        "amount": -4792,
+        "category": "education",
+        "description": "Tuition fees"
+    },
+    {
+        "date": "2023-03-21",
+        "amount": 1745,
+        "category": "entertainment",
+        "description": "Amusement park visit"
+    },
+    {
+        "date": "2022-09-06",
+        "amount": 2631,
+        "category": "transportation",
+        "description": "Taxi ride"
+    },
+    {
+        "date": "2023-01-22",
+        "amount": 2838,
+        "category": "bills",
+        "description": "Internet bill"
+    },
+    {
+        "date": "2022-12-14",
+        "amount": 3264,
+        "category": "transportation",
+        "description": "Gasoline expenses"
+    },
+    {
+        "date": "2023-02-02",
+        "amount": 2305,
+        "category": "bills",
+        "description": "Phone bill"
+    },
+    {
+        "date": "2023-01-29",
+        "amount": 326,
+        "category": "clothing",
+        "description": "Shoe shopping"
+    },
+    {
+        "date": "2022-09-10",
+        "amount": 659,
+        "category": "clothing",
+        "description": "Fashion accessories"
+    },
+    {
+        "date": "2022-08-03",
+        "amount": 4669,
+        "category": "groceries",
+        "description": "Food expenses"
+    },
+    {
+        "date": "2023-03-12",
+        "amount": -1270,
+        "category": "education",
+        "description": "Books and materials"
+    },
+    {
+        "date": "2022-05-28",
+        "amount": -339,
+        "category": "entertainment",
+        "description": "Movie tickets"
+    },
+    {
+        "date": "2023-02-02",
+        "amount": 1330,
+        "category": "healthcare",
+        "description": "Healthcare services"
+    },
+    {
+        "date": "2022-10-05",
+        "amount": -4429,
+        "category": "education",
+        "description": "Books and materials"
+    },
+    {
+        "date": "2022-09-24",
+        "amount": -91,
+        "category": "transportation",
+        "description": "Gasoline expenses"
+    },
+    {
+        "date": "2022-06-20",
+        "amount": -3636,
+        "category": "transportation",
+        "description": "Public transportation fare"
+    },
+    {
+        "date": "2022-07-31",
+        "amount": -2181,
+        "category": "bills",
+        "description": "Phone bill"
+    },
+    {
+        "date": "2023-05-01",
+        "amount": -2404,
+        "category": "entertainment",
+        "description": "Amusement park visit"
+    },
+    {
+        "date": "2022-10-06",
+        "amount": -2497,
+        "category": "clothing",
+        "description": "Fashion accessories"
+    },
+    {
+        "date": "2022-06-29",
+        "amount": 4433,
+        "category": "clothing",
+        "description": "Shoe shopping"
+    },
+    {
+        "date": "2022-09-23",
+        "amount": -1551,
+        "category": "bills",
+        "description": "Utility bill payment"
+    },
+    {
+        "date": "2022-06-05",
+        "amount": -559,
+        "category": "clothing",
+        "description": "Shoe shopping"
+    },
+    {
+        "date": "2023-03-23",
+        "amount": -3749,
+        "category": "income",
+        "description": "salary"
+    },
+    {
+        "date": "2023-05-04",
+        "amount": -3294,
+        "category": "education",
+        "description": "Books and materials"
+    },
+    {
+        "date": "2022-07-30",
+        "amount": 4201,
+        "category": "groceries",
+        "description": "Food expenses"
+    },
+    {
+        "date": "2022-11-30",
+        "amount": -347,
+        "category": "clothing",
+        "description": "Fashion accessories"
+    },
+    {
+        "date": "2023-03-15",
+        "amount": 3380,
+        "category": "groceries",
+        "description": "Food expenses"
+    },
+    {
+        "date": "2023-01-18",
+        "amount": 4821,
+        "category": "entertainment",
+        "description": "Amusement park visit"
+    },
+    {
+        "date": "2022-11-11",
+        "amount": -135,
+        "category": "clothing",
+        "description": "Shoe shopping"
+    },
+    {
+        "date": "2023-05-23",
+        "amount": -2672,
+        "category": "entertainment",
+        "description": "Movie tickets"
+    },
+    {
+        "date": "2022-10-15",
+        "amount": -589,
+        "category": "education",
+        "description": "Books and materials"
+    },
+    {
+        "date": "2022-06-05",
+        "amount": 2895,
+        "category": "groceries",
+        "description": "Supermarket purchase"
+    },
+    {
+        "date": "2023-03-17",
+        "amount": 2272,
+        "category": "bills",
+        "description": "Utility bill payment"
+    },
+    {
+        "date": "2022-12-06",
+        "amount": -798,
+        "category": "education",
+        "description": "Books and materials"
+    },
+    {
+        "date": "2023-02-08",
+        "amount": -4968,
+        "category": "education",
+        "description": "Books and materials"
+    },
+    {
+        "date": "2022-12-08",
+        "amount": -2065,
+        "category": "groceries",
+        "description": "Food expenses"
+    },
+    {
+        "date": "2023-03-12",
+        "amount": 1858,
+        "category": "entertainment",
+        "description": "Concert tickets"
+    },
+    {
+        "date": "2022-08-28",
+        "amount": 3817,
+        "category": "healthcare",
+        "description": "Medical expenses"
+    },
+    {
+        "date": "2022-05-30",
+        "amount": 1590,
+        "category": "education",
+        "description": "Online course payment"
+    },
+    {
+        "date": "2022-07-18",
+        "amount": 2450,
+        "category": "healthcare",
+        "description": "Healthcare services"
+    },
+    {
+        "date": "2023-01-16",
+        "amount": 4961,
+        "category": "clothing",
+        "description": "Shoe shopping"
+    },
+    {
+        "date": "2023-03-04",
+        "amount": 3980,
+        "category": "income",
+        "description": "Trade Market"
+    },
+    {
+        "date": "2023-04-08",
+        "amount": 2001,
+        "category": "transportation",
+        "description": "Taxi ride"
+    },
+    {
+        "date": "2022-08-29",
+        "amount": 3973,
+        "category": "transportation",
+        "description": "Taxi ride"
+    },
+    {
+        "date": "2023-05-05",
+        "amount": 1223,
+        "category": "income",
+        "description": "Trade Market"
+    },
+    {
+        "date": "2022-10-01",
+        "amount": -1945,
+        "category": "bills",
+        "description": "Utility bill payment"
+    },
+    {
+        "date": "2022-08-01",
+        "amount": 3679,
+        "category": "income",
+        "description": "salary"
+    },
+    {
+        "date": "2023-03-11",
+        "amount": -1652,
+        "category": "groceries",
+        "description": "Supermarket purchase"
+    },
+    {
+        "date": "2023-03-25",
+        "amount": 1844,
+        "category": "clothing",
+        "description": "Fashion accessories"
+    },
+    {
+        "date": "2022-11-30",
+        "amount": 3474,
+        "category": "transportation",
+        "description": "Public transportation fare"
+    },
+    {
+        "date": "2022-09-25",
+        "amount": -1300,
+        "category": "groceries",
+        "description": "Supermarket purchase"
+    },
+    {
+        "date": "2023-01-05",
+        "amount": -3973,
+        "category": "healthcare",
+        "description": "Healthcare services"
+    },
+    {
+        "date": "2022-10-27",
+        "amount": 4394,
+        "category": "healthcare",
+        "description": "Healthcare services"
+    },
+    {
+        "date": "2022-09-13",
+        "amount": 2277,
+        "category": "bills",
+        "description": "Utility bill payment"
+    },
+    {
+        "date": "2022-07-29",
+        "amount": -4752,
+        "category": "clothing",
+        "description": "Shoe shopping"
+    },
+    {
+        "date": "2022-07-09",
+        "amount": 1499,
+        "category": "clothing",
+        "description": "Fashion accessories"
+    },
+    {
+        "date": "2023-05-07",
+        "amount": -3398,
+        "category": "bills",
+        "description": "Utility bill payment"
+    },
+    {
+        "date": "2022-06-14",
+        "amount": -2587,
+        "category": "transportation",
+        "description": "Taxi ride"
+    },
+    {
+        "date": "2022-06-15",
+        "amount": -3184,
+        "category": "transportation",
+        "description": "Gasoline expenses"
+    },
+    {
+        "date": "2022-10-29",
+        "amount": -4786,
+        "category": "bills",
+        "description": "Utility bill payment"
+    },
+    {
+        "date": "2023-04-27",
+        "amount": 2349,
+        "category": "education",
+        "description": "Online course payment"
+    },
+    {
+        "date": "2022-11-03",
+        "amount": -3783,
+        "category": "clothing",
+        "description": "Clothing purchase"
+    },
+    {
+        "date": "2022-11-30",
+        "amount": 706,
+        "category": "entertainment",
+        "description": "Movie tickets"
+    },
+    {
+        "date": "2022-10-18",
+        "amount": -1366,
+        "category": "income",
+        "description": "Trade Market"
+    },
+    {
+        "date": "2022-12-28",
+        "amount": -4544,
+        "category": "income",
+        "description": "Trade Market"
+    },
+    {
+        "date": "2023-04-07",
+        "amount": -2532,
+        "category": "healthcare",
+        "description": "Pharmacy purchase"
+    },
+    {
+        "date": "2022-08-11",
+        "amount": 335,
+        "category": "education",
+        "description": "Online course payment"
+    },
+    {
+        "date": "2023-02-22",
+        "amount": -4360,
+        "category": "bills",
+        "description": "Utility bill payment"
+    },
+    {
+        "date": "2022-07-17",
+        "amount": 988,
+        "category": "transportation",
+        "description": "Gasoline expenses"
+    },
+    {
+        "date": "2022-11-29",
+        "amount": -256,
+        "category": "clothing",
+        "description": "Fashion accessories"
+    },
+    {
+        "date": "2022-09-25",
+        "amount": -4366,
+        "category": "groceries",
+        "description": "Grocery shopping"
+    },
+    {
+        "date": "2023-04-05",
+        "amount": -1601,
+        "category": "income",
+        "description": "Rent"
+    },
+    {
+        "date": "2023-01-05",
+        "amount": 1973,
+        "category": "groceries",
+        "description": "Food expenses"
+    },
+    {
+        "date": "2022-10-21",
+        "amount": -4403,
+        "category": "groceries",
+        "description": "Grocery shopping"
+    },
+    {
+        "date": "2022-08-18",
+        "amount": 972,
+        "category": "income",
+        "description": "Rent"
+    },
+    {
+        "date": "2022-10-20",
+        "amount": 2389,
+        "category": "bills",
+        "description": "Phone bill"
+    },
+    {
+        "date": "2022-11-28",
+        "amount": 1893,
+        "category": "clothing",
+        "description": "Fashion accessories"
+    },
+    {
+        "date": "2022-06-13",
+        "amount": -2992,
+        "category": "groceries",
+        "description": "Food expenses"
+    },
+    {
+        "date": "2023-05-23",
+        "amount": -282,
+        "category": "bills",
+        "description": "Internet bill"
+    },
+    {
+        "date": "2023-04-26",
+        "amount": -159,
+        "category": "entertainment",
+        "description": "Concert tickets"
+    },
+    {
+        "date": "2022-09-13",
+        "amount": 1161,
+        "category": "healthcare",
+        "description": "Medical expenses"
+    },
+    {
+        "date": "2023-01-25",
+        "amount": 3603,
+        "category": "groceries",
+        "description": "Grocery shopping"
+    },
+    {
+        "date": "2022-10-14",
+        "amount": 1222,
+        "category": "income",
+        "description": "Trade Market"
+    },
+    {
+        "date": "2023-05-12",
+        "amount": -981,
+        "category": "transportation",
+        "description": "Gasoline expenses"
+    },
+    {
+        "date": "2022-12-16",
+        "amount": -660,
+        "category": "clothing",
+        "description": "Clothing purchase"
+    },
+    {
+        "date": "2023-01-11",
+        "amount": -4270,
+        "category": "education",
+        "description": "Books and materials"
+    },
+    {
+        "date": "2022-06-04",
+        "amount": -442,
+        "category": "transportation",
+        "description": "Public transportation fare"
+    },
+    {
+        "date": "2022-10-01",
+        "amount": 673,
+        "category": "income",
+        "description": "Trade Market"
+    },
+    {
+        "date": "2022-08-14",
+        "amount": -1289,
+        "category": "income",
+        "description": "salary"
+    },
+    {
+        "date": "2022-12-03",
+        "amount": -1568,
+        "category": "education",
+        "description": "Tuition fees"
+    },
+    {
+        "date": "2022-09-05",
+        "amount": 4959,
+        "category": "groceries",
+        "description": "Grocery shopping"
+    },
+    {
+        "date": "2023-03-15",
+        "amount": -1529,
+        "category": "clothing",
+        "description": "Clothing purchase"
+    },
+    {
+        "date": "2023-05-01",
+        "amount": 2888,
+        "category": "groceries",
+        "description": "Supermarket purchase"
+    },
+    {
+        "date": "2022-06-23",
+        "amount": 2750,
+        "category": "transportation",
+        "description": "Gasoline expenses"
+    },
+    {
+        "date": "2022-09-19",
+        "amount": -3504,
+        "category": "education",
+        "description": "Online course payment"
+    },
+    {
+        "date": "2022-06-24",
+        "amount": -63,
+        "category": "entertainment",
+        "description": "Amusement park visit"
+    },
+    {
+        "date": "2022-08-12",
+        "amount": 3830,
+        "category": "bills",
+        "description": "Phone bill"
+    },
+    {
+        "date": "2022-08-18",
+        "amount": -833,
+        "category": "groceries",
+        "description": "Food expenses"
+    },
+    {
+        "date": "2022-10-30",
+        "amount": 999,
+        "category": "clothing",
+        "description": "Clothing purchase"
+    },
+    {
+        "date": "2022-12-25",
+        "amount": 747,
+        "category": "bills",
+        "description": "Utility bill payment"
+    },
+    {
+        "date": "2023-03-08",
+        "amount": 1125,
+        "category": "entertainment",
+        "description": "Amusement park visit"
+    },
+    {
+        "date": "2023-03-30",
+        "amount": 4053,
+        "category": "bills",
+        "description": "Utility bill payment"
+    },
+    {
+        "date": "2022-07-12",
+        "amount": -4894,
+        "category": "bills",
+        "description": "Internet bill"
+    },
+    {
+        "date": "2022-09-08",
+        "amount": 2196,
+        "category": "groceries",
+        "description": "Supermarket purchase"
+    },
+    {
+        "date": "2022-08-16",
+        "amount": 412,
+        "category": "bills",
+        "description": "Phone bill"
+    },
+    {
+        "date": "2022-08-07",
+        "amount": 3725,
+        "category": "entertainment",
+        "description": "Amusement park visit"
+    },
+    {
+        "date": "2022-07-16",
+        "amount": -429,
+        "category": "transportation",
+        "description": "Public transportation fare"
+    },
+    {
+        "date": "2023-02-09",
+        "amount": -4498,
+        "category": "clothing",
+        "description": "Shoe shopping"
+    },
+    {
+        "date": "2023-04-13",
+        "amount": 161,
+        "category": "bills",
+        "description": "Phone bill"
+    },
+    {
+        "date": "2023-05-25",
+        "amount": -2066,
+        "category": "transportation",
+        "description": "Gasoline expenses"
+    },
+    {
+        "date": "2022-08-16",
+        "amount": 3019,
+        "category": "entertainment",
+        "description": "Amusement park visit"
+    },
+    {
+        "date": "2022-07-02",
+        "amount": 539,
+        "category": "healthcare",
+        "description": "Medical expenses"
+    },
+    {
+        "date": "2022-09-02",
+        "amount": 271,
+        "category": "transportation",
+        "description": "Public transportation fare"
+    },
+    {
+        "date": "2023-01-03",
+        "amount": -2724,
+        "category": "income",
+        "description": "Rent"
+    },
+    {
+        "date": "2022-07-18",
+        "amount": 4174,
+        "category": "healthcare",
+        "description": "Healthcare services"
+    },
+    {
+        "date": "2022-05-28",
+        "amount": -4992,
+        "category": "groceries",
+        "description": "Grocery shopping"
+    },
+    {
+        "date": "2023-02-01",
+        "amount": -763,
+        "category": "transportation",
+        "description": "Taxi ride"
+    },
+    {
+        "date": "2022-10-28",
+        "amount": 3827,
+        "category": "healthcare",
+        "description": "Healthcare services"
+    },
+    {
+        "date": "2022-08-03",
+        "amount": 306,
+        "category": "bills",
+        "description": "Phone bill"
+    },
+    {
+        "date": "2022-12-05",
+        "amount": 3129,
+        "category": "transportation",
+        "description": "Taxi ride"
+    },
+    {
+        "date": "2022-05-27",
+        "amount": -4005,
+        "category": "entertainment",
+        "description": "Concert tickets"
+    },
+    {
+        "date": "2022-12-27",
+        "amount": 2866,
+        "category": "healthcare",
+        "description": "Medical expenses"
+    },
+    {
+        "date": "2022-06-03",
+        "amount": -2674,
+        "category": "groceries",
+        "description": "Supermarket purchase"
+    },
+    {
+        "date": "2023-02-17",
+        "amount": 3279,
+        "category": "bills",
+        "description": "Utility bill payment"
+    },
+    {
+        "date": "2022-09-10",
+        "amount": 4816,
+        "category": "entertainment",
+        "description": "Movie tickets"
+    },
+    {
+        "date": "2022-12-23",
+        "amount": 3198,
+        "category": "income",
+        "description": "Rent"
+    },
+    {
+        "date": "2022-08-25",
+        "amount": 754,
+        "category": "clothing",
+        "description": "Clothing purchase"
+    },
+    {
+        "date": "2023-05-20",
+        "amount": 975,
+        "category": "income",
+        "description": "salary"
+    },
+    {
+        "date": "2022-11-02",
+        "amount": 4229,
+        "category": "healthcare",
+        "description": "Healthcare services"
+    },
+    {
+        "date": "2022-06-29",
+        "amount": -1740,
+        "category": "groceries",
+        "description": "Food expenses"
+    },
+    {
+        "date": "2022-12-31",
+        "amount": -2349,
+        "category": "transportation",
+        "description": "Taxi ride"
+    },
+    {
+        "date": "2022-06-18",
+        "amount": 4735,
+        "category": "groceries",
+        "description": "Supermarket purchase"
+    },
+    {
+        "date": "2022-11-26",
+        "amount": 3865,
+        "category": "income",
+        "description": "Rent"
+    },
+    {
+        "date": "2022-11-22",
+        "amount": 2916,
+        "category": "transportation",
+        "description": "Gasoline expenses"
+    },
+    {
+        "date": "2023-02-07",
+        "amount": 835,
+        "category": "education",
+        "description": "Tuition fees"
+    },
+    {
+        "date": "2022-10-23",
+        "amount": 1462,
+        "category": "transportation",
+        "description": "Gasoline expenses"
+    },
+    {
+        "date": "2023-03-30",
+        "amount": -4600,
+        "category": "income",
+        "description": "salary"
+    },
+    {
+        "date": "2022-12-15",
+        "amount": -2356,
+        "category": "groceries",
+        "description": "Grocery shopping"
+    },
+    {
+        "date": "2023-01-20",
+        "amount": -3020,
+        "category": "transportation",
+        "description": "Gasoline expenses"
+    },
+    {
+        "date": "2022-12-18",
+        "amount": 2637,
+        "category": "transportation",
+        "description": "Taxi ride"
+    },
+    {
+        "date": "2022-07-13",
+        "amount": -676,
+        "category": "healthcare",
+        "description": "Pharmacy purchase"
+    },
+    {
+        "date": "2023-02-12",
+        "amount": 2924,
+        "category": "groceries",
+        "description": "Grocery shopping"
+    },
+    {
+        "date": "2022-06-12",
+        "amount": 3709,
+        "category": "healthcare",
+        "description": "Medical expenses"
+    },
+    {
+        "date": "2023-05-06",
+        "amount": 1369,
+        "category": "transportation",
+        "description": "Public transportation fare"
+    },
+    {
+        "date": "2023-02-23",
+        "amount": 4943,
+        "category": "education",
+        "description": "Online course payment"
+    },
+    {
+        "date": "2022-08-20",
+        "amount": -4072,
+        "category": "clothing",
+        "description": "Fashion accessories"
+    },
+    {
+        "date": "2022-08-23",
+        "amount": -3084,
+        "category": "transportation",
+        "description": "Taxi ride"
+    },
+    {
+        "date": "2023-04-09",
+        "amount": -893,
+        "category": "transportation",
+        "description": "Taxi ride"
+    },
+    {
+        "date": "2023-01-29",
+        "amount": -1647,
+        "category": "transportation",
+        "description": "Gasoline expenses"
+    },
+    {
+        "date": "2022-07-15",
+        "amount": -4585,
+        "category": "entertainment",
+        "description": "Movie tickets"
+    },
+    {
+        "date": "2023-03-12",
+        "amount": -2891,
+        "category": "transportation",
+        "description": "Gasoline expenses"
+    },
+    {
+        "date": "2022-10-05",
+        "amount": -3783,
+        "category": "clothing",
+        "description": "Fashion accessories"
+    },
+    {
+        "date": "2023-03-11",
+        "amount": -867,
+        "category": "clothing",
+        "description": "Fashion accessories"
+    },
+    {
+        "date": "2022-12-24",
+        "amount": 240,
+        "category": "bills",
+        "description": "Utility bill payment"
+    },
+    {
+        "date": "2023-05-22",
+        "amount": -2727,
+        "category": "healthcare",
+        "description": "Medical expenses"
+    },
+    {
+        "date": "2023-02-26",
+        "amount": 1782,
+        "category": "income",
+        "description": "Rent"
+    },
+    {
+        "date": "2023-04-20",
+        "amount": 1188,
+        "category": "groceries",
+        "description": "Food expenses"
+    },
+    {
+        "date": "2022-06-09",
+        "amount": 3308,
+        "category": "bills",
+        "description": "Phone bill"
+    },
+    {
+        "date": "2023-02-09",
+        "amount": 4592,
+        "category": "entertainment",
+        "description": "Concert tickets"
+    },
+    {
+        "date": "2023-01-02",
+        "amount": -3036,
+        "category": "bills",
+        "description": "Phone bill"
+    },
+    {
+        "date": "2022-06-24",
+        "amount": -1599,
+        "category": "transportation",
+        "description": "Gasoline expenses"
+    },
+    {
+        "date": "2023-04-20",
+        "amount": 1605,
+        "category": "clothing",
+        "description": "Fashion accessories"
+    },
+    {
+        "date": "2022-06-23",
+        "amount": 1675,
+        "category": "income",
+        "description": "Trade Market"
+    },
+    {
+        "date": "2022-12-19",
+        "amount": -1201,
+        "category": "income",
+        "description": "salary"
+    },
+    {
+        "date": "2022-07-17",
+        "amount": -989,
+        "category": "income",
+        "description": "salary"
+    },
+    {
+        "date": "2023-01-19",
+        "amount": -3234,
+        "category": "clothing",
+        "description": "Clothing purchase"
+    },
+    {
+        "date": "2022-11-30",
+        "amount": -1558,
+        "category": "education",
+        "description": "Tuition fees"
+    },
+    {
+        "date": "2022-11-01",
+        "amount": -2148,
+        "category": "groceries",
+        "description": "Food expenses"
+    },
+    {
+        "date": "2022-08-17",
+        "amount": -3900,
+        "category": "healthcare",
+        "description": "Healthcare services"
+    },
+    {
+        "date": "2023-01-31",
+        "amount": 4522,
+        "category": "clothing",
+        "description": "Clothing purchase"
+    },
+    {
+        "date": "2023-01-02",
+        "amount": 3896,
+        "category": "clothing",
+        "description": "Fashion accessories"
+    },
+    {
+        "date": "2022-11-14",
+        "amount": 4550,
+        "category": "transportation",
+        "description": "Public transportation fare"
+    },
+    {
+        "date": "2022-08-03",
+        "amount": 1230,
+        "category": "healthcare",
+        "description": "Medical expenses"
+    },
+    {
+        "date": "2022-07-31",
+        "amount": -4339,
+        "category": "transportation",
+        "description": "Taxi ride"
+    },
+    {
+        "date": "2023-01-01",
+        "amount": -1195,
+        "category": "bills",
+        "description": "Internet bill"
+    },
+    {
+        "date": "2023-01-23",
+        "amount": -2139,
+        "category": "education",
+        "description": "Online course payment"
+    },
+    {
+        "date": "2023-05-19",
+        "amount": -72,
+        "category": "transportation",
+        "description": "Public transportation fare"
+    },
+    {
+        "date": "2022-10-16",
+        "amount": 2057,
+        "category": "education",
+        "description": "Books and materials"
+    },
+    {
+        "date": "2023-04-20",
+        "amount": 752,
+        "category": "clothing",
+        "description": "Fashion accessories"
+    },
+    {
+        "date": "2022-11-04",
+        "amount": -923,
+        "category": "healthcare",
+        "description": "Healthcare services"
+    },
+    {
+        "date": "2022-08-12",
+        "amount": 2850,
+        "category": "education",
+        "description": "Tuition fees"
+    },
+    {
+        "date": "2023-03-17",
+        "amount": -1749,
+        "category": "entertainment",
+        "description": "Movie tickets"
+    },
+    {
+        "date": "2023-01-12",
+        "amount": -4925,
+        "category": "education",
+        "description": "Tuition fees"
+    },
+    {
+        "date": "2023-02-25",
+        "amount": 1265,
+        "category": "entertainment",
+        "description": "Concert tickets"
+    },
+    {
+        "date": "2023-03-02",
+        "amount": -3205,
+        "category": "healthcare",
+        "description": "Medical expenses"
+    },
+    {
+        "date": "2023-02-11",
+        "amount": 3889,
+        "category": "entertainment",
+        "description": "Movie tickets"
+    },
+    {
+        "date": "2022-07-02",
+        "amount": 2278,
+        "category": "transportation",
+        "description": "Public transportation fare"
+    },
+    {
+        "date": "2022-06-30",
+        "amount": -1812,
+        "category": "income",
+        "description": "salary"
+    },
+    {
+        "date": "2023-03-16",
+        "amount": -3868,
+        "category": "income",
+        "description": "Trade Market"
+    },
+    {
+        "date": "2023-04-02",
+        "amount": 4526,
+        "category": "entertainment",
+        "description": "Movie tickets"
+    },
+    {
+        "date": "2023-01-28",
+        "amount": -453,
+        "category": "bills",
+        "description": "Internet bill"
+    },
+    {
+        "date": "2022-11-10",
+        "amount": 4453,
+        "category": "healthcare",
+        "description": "Medical expenses"
+    },
+    {
+        "date": "2022-08-11",
+        "amount": 3605,
+        "category": "healthcare",
+        "description": "Medical expenses"
+    },
+    {
+        "date": "2023-03-07",
+        "amount": 3981,
+        "category": "bills",
+        "description": "Utility bill payment"
+    },
+    {
+        "date": "2022-12-01",
+        "amount": -3137,
+        "category": "education",
+        "description": "Online course payment"
+    },
+    {
+        "date": "2022-12-15",
+        "amount": 4602,
+        "category": "entertainment",
+        "description": "Concert tickets"
+    },
+    {
+        "date": "2023-01-31",
+        "amount": -2349,
+        "category": "groceries",
+        "description": "Grocery shopping"
+    },
+    {
+        "date": "2022-06-24",
+        "amount": -3640,
+        "category": "groceries",
+        "description": "Food expenses"
+    },
+    {
+        "date": "2022-09-22",
+        "amount": -1354,
+        "category": "bills",
+        "description": "Utility bill payment"
+    },
+    {
+        "date": "2022-09-21",
+        "amount": -2706,
+        "category": "groceries",
+        "description": "Food expenses"
+    },
+    {
+        "date": "2023-03-26",
+        "amount": 959,
+        "category": "entertainment",
+        "description": "Amusement park visit"
+    },
+    {
+        "date": "2023-01-26",
+        "amount": -3645,
+        "category": "entertainment",
+        "description": "Concert tickets"
+    },
+    {
+        "date": "2022-12-11",
+        "amount": 3544,
+        "category": "groceries",
+        "description": "Food expenses"
+    },
+    {
+        "date": "2022-08-21",
+        "amount": -1233,
+        "category": "transportation",
+        "description": "Gasoline expenses"
+    },
+    {
+        "date": "2022-08-23",
+        "amount": 4850,
+        "category": "clothing",
+        "description": "Shoe shopping"
+    },
+    {
+        "date": "2022-10-02",
+        "amount": -4246,
+        "category": "clothing",
+        "description": "Fashion accessories"
+    },
+    {
+        "date": "2023-05-05",
+        "amount": 2114,
+        "category": "transportation",
+        "description": "Taxi ride"
+    },
+    {
+        "date": "2023-04-03",
+        "amount": 2449,
+        "category": "income",
+        "description": "salary"
+    },
+    {
+        "date": "2023-04-15",
+        "amount": -1900,
+        "category": "bills",
+        "description": "Utility bill payment"
+    },
+    {
+        "date": "2022-08-17",
+        "amount": 4069,
+        "category": "education",
+        "description": "Books and materials"
+    },
+    {
+        "date": "2022-09-01",
+        "amount": 1269,
+        "category": "bills",
+        "description": "Internet bill"
+    },
+    {
+        "date": "2022-10-02",
+        "amount": 1513,
+        "category": "clothing",
+        "description": "Fashion accessories"
+    },
+    {
+        "date": "2022-11-25",
+        "amount": -66,
+        "category": "healthcare",
+        "description": "Healthcare services"
+    },
+    {
+        "date": "2023-03-13",
+        "amount": 1856,
+        "category": "bills",
+        "description": "Phone bill"
+    },
+    {
+        "date": "2022-10-28",
+        "amount": -1999,
+        "category": "clothing",
+        "description": "Fashion accessories"
+    },
+    {
+        "date": "2022-12-31",
+        "amount": -1694,
+        "category": "healthcare",
+        "description": "Healthcare services"
+    },
+    {
+        "date": "2023-04-22",
+        "amount": 2180,
+        "category": "bills",
+        "description": "Internet bill"
+    },
+    {
+        "date": "2022-11-25",
+        "amount": -3632,
+        "category": "clothing",
+        "description": "Fashion accessories"
+    },
+    {
+        "date": "2023-03-19",
+        "amount": 3767,
+        "category": "bills",
+        "description": "Phone bill"
+    },
+    {
+        "date": "2022-11-05",
+        "amount": 4957,
+        "category": "income",
+        "description": "Trade Market"
+    },
+    {
+        "date": "2022-06-20",
+        "amount": -720,
+        "category": "clothing",
+        "description": "Fashion accessories"
+    },
+    {
+        "date": "2023-03-17",
+        "amount": -611,
+        "category": "education",
+        "description": "Books and materials"
+    },
+    {
+        "date": "2022-10-08",
+        "amount": 4080,
+        "category": "groceries",
+        "description": "Food expenses"
+    },
+    {
+        "date": "2023-05-11",
+        "amount": 3291,
+        "category": "groceries",
+        "description": "Grocery shopping"
+    },
+    {
+        "date": "2022-08-11",
+        "amount": -2007,
+        "category": "entertainment",
+        "description": "Amusement park visit"
+    },
+    {
+        "date": "2023-01-30",
+        "amount": -2057,
+        "category": "bills",
+        "description": "Internet bill"
+    },
+    {
+        "date": "2022-12-02",
+        "amount": 1406,
+        "category": "healthcare",
+        "description": "Medical expenses"
+    },
+    {
+        "date": "2023-01-27",
+        "amount": -3699,
+        "category": "transportation",
+        "description": "Gasoline expenses"
+    },
+    {
+        "date": "2023-04-13",
+        "amount": -3887,
+        "category": "healthcare",
+        "description": "Healthcare services"
+    },
+    {
+        "date": "2022-12-21",
+        "amount": -2870,
+        "category": "healthcare",
+        "description": "Healthcare services"
+    },
+    {
+        "date": "2022-12-07",
+        "amount": -1736,
+        "category": "income",
+        "description": "salary"
+    },
+    {
+        "date": "2023-01-24",
+        "amount": -4759,
+        "category": "transportation",
+        "description": "Gasoline expenses"
+    },
+    {
+        "date": "2022-09-03",
+        "amount": -4879,
+        "category": "income",
+        "description": "salary"
+    },
+    {
+        "date": "2022-08-11",
+        "amount": 2891,
+        "category": "bills",
+        "description": "Phone bill"
+    },
+    {
+        "date": "2022-11-04",
+        "amount": 3493,
+        "category": "entertainment",
+        "description": "Amusement park visit"
+    },
+    {
+        "date": "2023-04-30",
+        "amount": -4749,
+        "category": "clothing",
+        "description": "Shoe shopping"
+    },
+    {
+        "date": "2022-11-25",
+        "amount": 1471,
+        "category": "clothing",
+        "description": "Clothing purchase"
+    },
+    {
+        "date": "2022-07-07",
+        "amount": -124,
+        "category": "transportation",
+        "description": "Gasoline expenses"
+    },
+    {
+        "date": "2022-10-08",
+        "amount": 356,
+        "category": "groceries",
+        "description": "Grocery shopping"
+    },
+    {
+        "date": "2023-03-22",
+        "amount": -1646,
+        "category": "income",
+        "description": "Trade Market"
+    },
+    {
+        "date": "2022-08-13",
+        "amount": -3293,
+        "category": "education",
+        "description": "Online course payment"
+    },
+    {
+        "date": "2022-12-02",
+        "amount": -2692,
+        "category": "entertainment",
+        "description": "Amusement park visit"
+    },
+    {
+        "date": "2023-02-12",
+        "amount": -647,
+        "category": "bills",
+        "description": "Utility bill payment"
+    },
+    {
+        "date": "2023-04-09",
+        "amount": -2577,
+        "category": "education",
+        "description": "Tuition fees"
+    },
+    {
+        "date": "2022-10-14",
+        "amount": 1084,
+        "category": "entertainment",
+        "description": "Concert tickets"
+    },
+    {
+        "date": "2022-06-02",
+        "amount": 3634,
+        "category": "transportation",
+        "description": "Taxi ride"
+    },
+    {
+        "date": "2022-08-04",
+        "amount": 563,
+        "category": "income",
+        "description": "Trade Market"
+    },
+    {
+        "date": "2023-02-27",
+        "amount": 1061,
+        "category": "income",
+        "description": "Rent"
+    },
+    {
+        "date": "2022-05-29",
+        "amount": 2682,
+        "category": "groceries",
+        "description": "Supermarket purchase"
+    },
+    {
+        "date": "2022-11-13",
+        "amount": 4373,
+        "category": "entertainment",
+        "description": "Amusement park visit"
+    },
+    {
+        "date": "2022-11-29",
+        "amount": -134,
+        "category": "income",
+        "description": "Rent"
+    },
+    {
+        "date": "2022-09-18",
+        "amount": 4711,
+        "category": "bills",
+        "description": "Internet bill"
+    },
+    {
+        "date": "2022-10-07",
+        "amount": -810,
+        "category": "transportation",
+        "description": "Gasoline expenses"
+    },
+    {
+        "date": "2022-07-23",
+        "amount": -1248,
+        "category": "education",
+        "description": "Tuition fees"
+    },
+    {
+        "date": "2023-02-07",
+        "amount": -681,
+        "category": "groceries",
+        "description": "Grocery shopping"
+    },
+    {
+        "date": "2023-03-30",
+        "amount": 3261,
+        "category": "bills",
+        "description": "Utility bill payment"
+    },
+    {
+        "date": "2022-11-18",
+        "amount": 4,
+        "category": "bills",
+        "description": "Utility bill payment"
+    },
+    {
+        "date": "2022-09-05",
+        "amount": 4939,
+        "category": "entertainment",
+        "description": "Movie tickets"
+    },
+    {
+        "date": "2022-12-20",
+        "amount": 270,
+        "category": "groceries",
+        "description": "Supermarket purchase"
+    },
+    {
+        "date": "2023-05-15",
+        "amount": 3575,
+        "category": "entertainment",
+        "description": "Amusement park visit"
+    },
+    {
+        "date": "2023-05-02",
+        "amount": 3209,
+        "category": "clothing",
+        "description": "Shoe shopping"
+    },
+    {
+        "date": "2022-12-16",
+        "amount": 4165,
+        "category": "income",
+        "description": "Trade Market"
+    },
+    {
+        "date": "2022-08-18",
+        "amount": 2846,
+        "category": "groceries",
+        "description": "Grocery shopping"
+    },
+    {
+        "date": "2022-11-12",
+        "amount": 1506,
+        "category": "clothing",
+        "description": "Clothing purchase"
+    },
+    {
+        "date": "2023-01-07",
+        "amount": 1524,
+        "category": "bills",
+        "description": "Phone bill"
+    },
+    {
+        "date": "2023-04-09",
+        "amount": 2053,
+        "category": "transportation",
+        "description": "Gasoline expenses"
+    },
+    {
+        "date": "2022-06-13",
+        "amount": -3652,
+        "category": "groceries",
+        "description": "Grocery shopping"
+    },
+    {
+        "date": "2023-04-01",
+        "amount": 3517,
+        "category": "healthcare",
+        "description": "Healthcare services"
+    },
+    {
+        "date": "2022-07-08",
+        "amount": 485,
+        "category": "entertainment",
+        "description": "Concert tickets"
+    },
+    {
+        "date": "2022-10-11",
+        "amount": 4664,
+        "category": "healthcare",
+        "description": "Healthcare services"
+    },
+    {
+        "date": "2022-11-13",
+        "amount": -346,
+        "category": "bills",
+        "description": "Internet bill"
+    },
+    {
+        "date": "2023-05-05",
+        "amount": 2035,
+        "category": "education",
+        "description": "Tuition fees"
+    },
+    {
+        "date": "2023-02-27",
+        "amount": -70,
+        "category": "entertainment",
+        "description": "Amusement park visit"
+    },
+    {
+        "date": "2023-01-09",
+        "amount": 2530,
+        "category": "bills",
+        "description": "Internet bill"
+    },
+    {
+        "date": "2022-10-04",
+        "amount": 2390,
+        "category": "transportation",
+        "description": "Gasoline expenses"
+    },
+    {
+        "date": "2022-09-12",
+        "amount": -3212,
+        "category": "groceries",
+        "description": "Supermarket purchase"
+    },
+    {
+        "date": "2022-06-28",
+        "amount": 4129,
+        "category": "groceries",
+        "description": "Food expenses"
+    },
+    {
+        "date": "2022-10-30",
+        "amount": -294,
+        "category": "healthcare",
+        "description": "Healthcare services"
+    },
+    {
+        "date": "2022-08-16",
+        "amount": -1951,
+        "category": "education",
+        "description": "Online course payment"
+    },
+    {
+        "date": "2022-09-22",
+        "amount": 2518,
+        "category": "entertainment",
+        "description": "Amusement park visit"
+    },
+    {
+        "date": "2022-10-24",
+        "amount": 4861,
+        "category": "education",
+        "description": "Tuition fees"
+    },
+    {
+        "date": "2022-07-06",
+        "amount": -4984,
+        "category": "groceries",
+        "description": "Supermarket purchase"
+    },
+    {
+        "date": "2022-08-14",
+        "amount": 3444,
+        "category": "education",
+        "description": "Online course payment"
+    },
+    {
+        "date": "2023-05-16",
+        "amount": -4010,
+        "category": "bills",
+        "description": "Internet bill"
+    },
+    {
+        "date": "2022-08-15",
+        "amount": 829,
+        "category": "income",
+        "description": "salary"
+    },
+    {
+        "date": "2022-10-23",
+        "amount": -1762,
+        "category": "education",
+        "description": "Books and materials"
+    },
+    {
+        "date": "2022-11-27",
+        "amount": -1204,
+        "category": "education",
+        "description": "Online course payment"
+    },
+    {
+        "date": "2023-03-06",
+        "amount": -1307,
+        "category": "entertainment",
+        "description": "Amusement park visit"
+    },
+    {
+        "date": "2023-05-08",
+        "amount": -3126,
+        "category": "bills",
+        "description": "Internet bill"
+    },
+    {
+        "date": "2022-12-07",
+        "amount": 4614,
+        "category": "clothing",
+        "description": "Clothing purchase"
+    },
+    {
+        "date": "2022-06-16",
+        "amount": -979,
+        "category": "income",
+        "description": "Trade Market"
+    },
+    {
+        "date": "2023-05-12",
+        "amount": 4115,
+        "category": "healthcare",
+        "description": "Pharmacy purchase"
+    },
+    {
+        "date": "2022-09-04",
+        "amount": -2347,
+        "category": "education",
+        "description": "Online course payment"
+    },
+    {
+        "date": "2022-09-23",
+        "amount": -4702,
+        "category": "groceries",
+        "description": "Grocery shopping"
+    },
+    {
+        "date": "2022-08-06",
+        "amount": 1537,
+        "category": "clothing",
+        "description": "Shoe shopping"
+    },
+    {
+        "date": "2023-05-24",
+        "amount": -4223,
+        "category": "clothing",
+        "description": "Fashion accessories"
+    },
+    {
+        "date": "2022-08-04",
+        "amount": -698,
+        "category": "education",
+        "description": "Online course payment"
+    },
+    {
+        "date": "2023-04-09",
+        "amount": 4735,
+        "category": "income",
+        "description": "salary"
+    },
+    {
+        "date": "2023-05-02",
+        "amount": 2690,
+        "category": "healthcare",
+        "description": "Medical expenses"
+    },
+    {
+        "date": "2023-01-14",
+        "amount": -1415,
+        "category": "transportation",
+        "description": "Gasoline expenses"
+    },
+    {
+        "date": "2023-03-22",
+        "amount": -902,
+        "category": "bills",
+        "description": "Internet bill"
+    },
+    {
+        "date": "2022-09-02",
+        "amount": -1255,
+        "category": "bills",
+        "description": "Utility bill payment"
+    },
+    {
+        "date": "2023-03-13",
+        "amount": -3148,
+        "category": "clothing",
+        "description": "Clothing purchase"
+    },
+    {
+        "date": "2023-04-27",
+        "amount": 1512,
+        "category": "groceries",
+        "description": "Supermarket purchase"
+    },
+    {
+        "date": "2023-02-23",
+        "amount": 2679,
+        "category": "transportation",
+        "description": "Gasoline expenses"
+    },
+    {
+        "date": "2022-11-21",
+        "amount": -4499,
+        "category": "income",
+        "description": "salary"
+    },
+    {
+        "date": "2022-06-09",
+        "amount": -1600,
+        "category": "clothing",
+        "description": "Fashion accessories"
+    },
+    {
+        "date": "2023-04-07",
+        "amount": -721,
+        "category": "income",
+        "description": "Rent"
+    },
+    {
+        "date": "2022-10-30",
+        "amount": -4585,
+        "category": "groceries",
+        "description": "Food expenses"
+    },
+    {
+        "date": "2023-04-08",
+        "amount": -3739,
+        "category": "transportation",
+        "description": "Gasoline expenses"
+    },
+    {
+        "date": "2022-09-23",
+        "amount": -4124,
+        "category": "education",
+        "description": "Online course payment"
+    },
+    {
+        "date": "2022-07-18",
+        "amount": 4642,
+        "category": "groceries",
+        "description": "Supermarket purchase"
+    },
+    {
+        "date": "2023-05-17",
+        "amount": 4346,
+        "category": "education",
+        "description": "Tuition fees"
+    },
+    {
+        "date": "2022-11-04",
+        "amount": -4768,
+        "category": "groceries",
+        "description": "Grocery shopping"
+    },
+    {
+        "date": "2022-08-31",
+        "amount": -4507,
+        "category": "groceries",
+        "description": "Supermarket purchase"
+    },
+    {
+        "date": "2023-05-06",
+        "amount": 2043,
+        "category": "transportation",
+        "description": "Public transportation fare"
+    },
+    {
+        "date": "2023-03-15",
+        "amount": -4723,
+        "category": "income",
+        "description": "Trade Market"
+    },
+    {
+        "date": "2022-09-11",
+        "amount": -1689,
+        "category": "transportation",
+        "description": "Public transportation fare"
+    },
+    {
+        "date": "2022-06-04",
+        "amount": 3808,
+        "category": "entertainment",
+        "description": "Movie tickets"
+    },
+    {
+        "date": "2022-07-18",
+        "amount": -3416,
+        "category": "education",
+        "description": "Books and materials"
+    },
+    {
+        "date": "2022-07-02",
+        "amount": -1785,
+        "category": "bills",
+        "description": "Internet bill"
+    },
+    {
+        "date": "2022-10-09",
+        "amount": 163,
+        "category": "groceries",
+        "description": "Supermarket purchase"
+    },
+    {
+        "date": "2023-01-16",
+        "amount": -2460,
+        "category": "groceries",
+        "description": "Food expenses"
+    },
+    {
+        "date": "2023-01-06",
+        "amount": -2119,
+        "category": "clothing",
+        "description": "Fashion accessories"
+    },
+    {
+        "date": "2023-05-09",
+        "amount": -574,
+        "category": "clothing",
+        "description": "Fashion accessories"
+    },
+    {
+        "date": "2023-03-02",
+        "amount": -2664,
+        "category": "bills",
+        "description": "Internet bill"
+    },
+    {
+        "date": "2023-01-21",
+        "amount": -1700,
+        "category": "bills",
+        "description": "Utility bill payment"
+    },
+    {
+        "date": "2023-02-03",
+        "amount": 92,
+        "category": "entertainment",
+        "description": "Movie tickets"
+    },
+    {
+        "date": "2022-09-13",
+        "amount": 414,
+        "category": "education",
+        "description": "Online course payment"
+    },
+    {
+        "date": "2022-12-11",
+        "amount": -1691,
+        "category": "transportation",
+        "description": "Taxi ride"
+    },
+    {
+        "date": "2022-06-25",
+        "amount": 3262,
+        "category": "healthcare",
+        "description": "Medical expenses"
+    },
+    {
+        "date": "2022-06-26",
+        "amount": 525,
+        "category": "entertainment",
+        "description": "Amusement park visit"
+    },
+    {
+        "date": "2022-08-13",
+        "amount": 496,
+        "category": "healthcare",
+        "description": "Medical expenses"
+    },
+    {
+        "date": "2022-11-06",
+        "amount": 2942,
+        "category": "income",
+        "description": "Rent"
+    },
+    {
+        "date": "2022-11-20",
+        "amount": -397,
+        "category": "healthcare",
+        "description": "Pharmacy purchase"
+    },
+    {
+        "date": "2022-09-10",
+        "amount": 690,
+        "category": "entertainment",
+        "description": "Movie tickets"
+    },
+    {
+        "date": "2023-04-30",
+        "amount": 2431,
+        "category": "clothing",
+        "description": "Shoe shopping"
+    },
+    {
+        "date": "2022-09-12",
+        "amount": 788,
+        "category": "transportation",
+        "description": "Public transportation fare"
+    },
+    {
+        "date": "2022-09-28",
+        "amount": 1299,
+        "category": "healthcare",
+        "description": "Pharmacy purchase"
+    },
+    {
+        "date": "2022-12-01",
+        "amount": 3067,
+        "category": "bills",
+        "description": "Internet bill"
+    },
+    {
+        "date": "2023-05-06",
+        "amount": -1669,
+        "category": "education",
+        "description": "Tuition fees"
+    },
+    {
+        "date": "2023-02-20",
+        "amount": 1924,
+        "category": "entertainment",
+        "description": "Amusement park visit"
+    },
+    {
+        "date": "2023-05-18",
+        "amount": -225,
+        "category": "education",
+        "description": "Tuition fees"
+    },
+    {
+        "date": "2022-06-03",
+        "amount": -88,
+        "category": "clothing",
+        "description": "Shoe shopping"
+    },
+    {
+        "date": "2023-03-17",
+        "amount": 3917,
+        "category": "healthcare",
+        "description": "Medical expenses"
+    },
+    {
+        "date": "2022-11-13",
+        "amount": 3647,
+        "category": "education",
+        "description": "Online course payment"
+    },
+    {
+        "date": "2022-09-16",
+        "amount": 4942,
+        "category": "entertainment",
+        "description": "Movie tickets"
+    },
+    {
+        "date": "2023-01-10",
+        "amount": -1809,
+        "category": "income",
+        "description": "Trade Market"
+    },
+    {
+        "date": "2023-05-22",
+        "amount": -3551,
+        "category": "bills",
+        "description": "Internet bill"
+    },
+    {
+        "date": "2023-01-03",
+        "amount": -3151,
+        "category": "healthcare",
+        "description": "Medical expenses"
+    },
+    {
+        "date": "2022-06-11",
+        "amount": 2535,
+        "category": "income",
+        "description": "Trade Market"
+    },
+    {
+        "date": "2022-07-02",
+        "amount": 3930,
+        "category": "bills",
+        "description": "Phone bill"
+    },
+    {
+        "date": "2022-08-05",
+        "amount": -4797,
+        "category": "bills",
+        "description": "Phone bill"
+    },
+    {
+        "date": "2022-09-04",
+        "amount": -1618,
+        "category": "transportation",
+        "description": "Gasoline expenses"
+    },
+    {
+        "date": "2023-03-31",
+        "amount": -3543,
+        "category": "income",
+        "description": "Trade Market"
+    },
+    {
+        "date": "2022-06-25",
+        "amount": -2717,
+        "category": "income",
+        "description": "Trade Market"
+    },
+    {
+        "date": "2023-01-07",
+        "amount": -3692,
+        "category": "education",
+        "description": "Books and materials"
+    },
+    {
+        "date": "2023-04-12",
+        "amount": 4800,
+        "category": "entertainment",
+        "description": "Amusement park visit"
+    },
+    {
+        "date": "2023-02-17",
+        "amount": -452,
+        "category": "education",
+        "description": "Online course payment"
+    },
+    {
+        "date": "2022-09-07",
+        "amount": -835,
+        "category": "bills",
+        "description": "Internet bill"
+    },
+    {
+        "date": "2022-10-23",
+        "amount": -4201,
+        "category": "entertainment",
+        "description": "Movie tickets"
+    },
+    {
+        "date": "2023-04-06",
+        "amount": -4086,
+        "category": "income",
+        "description": "Trade Market"
+    },
+    {
+        "date": "2023-01-13",
+        "amount": -3873,
+        "category": "groceries",
+        "description": "Supermarket purchase"
+    },
+    {
+        "date": "2022-08-19",
+        "amount": -3395,
+        "category": "groceries",
+        "description": "Supermarket purchase"
+    },
+    {
+        "date": "2022-09-29",
+        "amount": 2106,
+        "category": "bills",
+        "description": "Utility bill payment"
+    },
+    {
+        "date": "2023-05-17",
+        "amount": 711,
+        "category": "groceries",
+        "description": "Grocery shopping"
+    },
+    {
+        "date": "2022-11-02",
+        "amount": -2105,
+        "category": "healthcare",
+        "description": "Healthcare services"
+    },
+    {
+        "date": "2022-09-22",
+        "amount": -593,
+        "category": "education",
+        "description": "Tuition fees"
+    },
+    {
+        "date": "2022-08-30",
+        "amount": -4264,
+        "category": "clothing",
+        "description": "Clothing purchase"
+    },
+    {
+        "date": "2023-02-12",
+        "amount": -2513,
+        "category": "transportation",
+        "description": "Gasoline expenses"
+    },
+    {
+        "date": "2022-12-30",
+        "amount": -304,
+        "category": "bills",
+        "description": "Internet bill"
+    },
+    {
+        "date": "2023-04-21",
+        "amount": -3462,
+        "category": "clothing",
+        "description": "Clothing purchase"
+    },
+    {
+        "date": "2023-02-09",
+        "amount": -2056,
+        "category": "healthcare",
+        "description": "Healthcare services"
+    },
+    {
+        "date": "2022-07-17",
+        "amount": -2639,
+        "category": "transportation",
+        "description": "Public transportation fare"
+    },
+    {
+        "date": "2023-01-03",
+        "amount": 3729,
+        "category": "bills",
+        "description": "Utility bill payment"
+    },
+    {
+        "date": "2023-01-06",
+        "amount": -1025,
+        "category": "healthcare",
+        "description": "Medical expenses"
+    },
+    {
+        "date": "2023-02-09",
+        "amount": -4545,
+        "category": "income",
+        "description": "Rent"
+    },
+    {
+        "date": "2023-04-05",
+        "amount": -2620,
+        "category": "clothing",
+        "description": "Fashion accessories"
+    },
+    {
+        "date": "2023-05-15",
+        "amount": -4215,
+        "category": "bills",
+        "description": "Utility bill payment"
+    },
+    {
+        "date": "2022-07-17",
+        "amount": -3949,
+        "category": "bills",
+        "description": "Internet bill"
+    },
+    {
+        "date": "2023-05-06",
+        "amount": -1515,
+        "category": "entertainment",
+        "description": "Concert tickets"
+    },
+    {
+        "date": "2023-04-03",
+        "amount": 3516,
+        "category": "income",
+        "description": "salary"
+    },
+    {
+        "date": "2023-04-06",
+        "amount": 4269,
+        "category": "entertainment",
+        "description": "Movie tickets"
+    },
+    {
+        "date": "2022-12-31",
+        "amount": -234,
+        "category": "transportation",
+        "description": "Taxi ride"
+    },
+    {
+        "date": "2022-09-27",
+        "amount": 197,
+        "category": "clothing",
+        "description": "Clothing purchase"
+    },
+    {
+        "date": "2023-01-31",
+        "amount": 566,
+        "category": "clothing",
+        "description": "Clothing purchase"
+    },
+    {
+        "date": "2023-03-04",
+        "amount": -224,
+        "category": "clothing",
+        "description": "Shoe shopping"
+    },
+    {
+        "date": "2022-09-14",
+        "amount": -621,
+        "category": "entertainment",
+        "description": "Concert tickets"
+    },
+    {
+        "date": "2023-03-02",
+        "amount": -1990,
+        "category": "education",
+        "description": "Online course payment"
+    },
+    {
+        "date": "2023-02-25",
+        "amount": -680,
+        "category": "education",
+        "description": "Books and materials"
+    },
+    {
+        "date": "2022-08-03",
+        "amount": -2015,
+        "category": "education",
+        "description": "Online course payment"
+    },
+    {
+        "date": "2022-12-24",
+        "amount": 894,
+        "category": "education",
+        "description": "Books and materials"
+    },
+    {
+        "date": "2023-01-22",
+        "amount": -367,
+        "category": "groceries",
+        "description": "Grocery shopping"
+    },
+    {
+        "date": "2022-07-06",
+        "amount": 4283,
+        "category": "income",
+        "description": "Trade Market"
+    },
+    {
+        "date": "2022-09-05",
+        "amount": 1388,
+        "category": "clothing",
+        "description": "Shoe shopping"
+    },
+    {
+        "date": "2022-09-27",
+        "amount": 1902,
+        "category": "entertainment",
+        "description": "Concert tickets"
+    },
+    {
+        "date": "2022-12-14",
+        "amount": -1954,
+        "category": "bills",
+        "description": "Internet bill"
+    },
+    {
+        "date": "2022-10-18",
+        "amount": 279,
+        "category": "transportation",
+        "description": "Taxi ride"
+    },
+    {
+        "date": "2022-08-24",
+        "amount": -485,
+        "category": "healthcare",
+        "description": "Pharmacy purchase"
+    },
+    {
+        "date": "2023-02-11",
+        "amount": -573,
+        "category": "entertainment",
+        "description": "Amusement park visit"
+    },
+    {
+        "date": "2023-05-10",
+        "amount": 1455,
+        "category": "education",
+        "description": "Online course payment"
+    },
+    {
+        "date": "2023-01-25",
+        "amount": -2165,
+        "category": "bills",
+        "description": "Utility bill payment"
+    },
+    {
+        "date": "2022-07-27",
+        "amount": 4863,
+        "category": "education",
+        "description": "Tuition fees"
+    },
+    {
+        "date": "2022-09-09",
+        "amount": 3571,
+        "category": "clothing",
+        "description": "Clothing purchase"
+    },
+    {
+        "date": "2022-10-26",
+        "amount": -160,
+        "category": "entertainment",
+        "description": "Amusement park visit"
+    },
+    {
+        "date": "2023-02-10",
+        "amount": -4928,
+        "category": "healthcare",
+        "description": "Medical expenses"
+    },
+    {
+        "date": "2022-08-02",
+        "amount": -1610,
+        "category": "groceries",
+        "description": "Grocery shopping"
+    },
+    {
+        "date": "2022-12-24",
+        "amount": 4025,
+        "category": "income",
+        "description": "Rent"
+    },
+    {
+        "date": "2022-08-16",
+        "amount": -4550,
+        "category": "entertainment",
+        "description": "Concert tickets"
+    },
+    {
+        "date": "2022-11-04",
+        "amount": -4640,
+        "category": "groceries",
+        "description": "Food expenses"
+    },
+    {
+        "date": "2023-03-13",
+        "amount": 1254,
+        "category": "bills",
+        "description": "Internet bill"
+    },
+    {
+        "date": "2022-09-11",
+        "amount": 1850,
+        "category": "clothing",
+        "description": "Shoe shopping"
+    },
+    {
+        "date": "2022-10-05",
+        "amount": -4623,
+        "category": "transportation",
+        "description": "Public transportation fare"
+    },
+    {
+        "date": "2022-12-13",
+        "amount": 3469,
+        "category": "income",
+        "description": "Rent"
+    },
+    {
+        "date": "2023-01-22",
+        "amount": -3934,
+        "category": "groceries",
+        "description": "Food expenses"
+    },
+    {
+        "date": "2022-09-04",
+        "amount": 2009,
+        "category": "clothing",
+        "description": "Shoe shopping"
+    },
+    {
+        "date": "2023-05-14",
+        "amount": -193,
+        "category": "clothing",
+        "description": "Shoe shopping"
+    },
+    {
+        "date": "2022-06-18",
+        "amount": -2198,
+        "category": "healthcare",
+        "description": "Pharmacy purchase"
+    },
+    {
+        "date": "2023-02-22",
+        "amount": -1777,
+        "category": "bills",
+        "description": "Phone bill"
+    },
+    {
+        "date": "2022-06-18",
+        "amount": -999,
+        "category": "clothing",
+        "description": "Shoe shopping"
+    },
+    {
+        "date": "2022-10-18",
+        "amount": -1098,
+        "category": "income",
+        "description": "Rent"
+    },
+    {
+        "date": "2022-10-01",
+        "amount": -444,
+        "category": "groceries",
+        "description": "Food expenses"
+    },
+    {
+        "date": "2023-03-31",
+        "amount": 932,
+        "category": "healthcare",
+        "description": "Medical expenses"
+    },
+    {
+        "date": "2022-09-03",
+        "amount": 1447,
+        "category": "clothing",
+        "description": "Clothing purchase"
+    },
+    {
+        "date": "2023-01-16",
+        "amount": -1140,
+        "category": "entertainment",
+        "description": "Movie tickets"
+    },
+    {
+        "date": "2022-10-05",
+        "amount": -3133,
+        "category": "entertainment",
+        "description": "Amusement park visit"
+    },
+    {
+        "date": "2022-11-22",
+        "amount": 125,
+        "category": "education",
+        "description": "Tuition fees"
+    },
+    {
+        "date": "2023-01-03",
+        "amount": 1401,
+        "category": "income",
+        "description": "Trade Market"
+    },
+    {
+        "date": "2023-03-02",
+        "amount": 1780,
+        "category": "healthcare",
+        "description": "Healthcare services"
+    },
+    {
+        "date": "2022-09-04",
+        "amount": 4805,
+        "category": "transportation",
+        "description": "Gasoline expenses"
+    },
+    {
+        "date": "2022-07-10",
+        "amount": -992,
+        "category": "clothing",
+        "description": "Shoe shopping"
+    },
+    {
+        "date": "2022-08-09",
+        "amount": 1070,
+        "category": "clothing",
+        "description": "Fashion accessories"
+    },
+    {
+        "date": "2023-01-30",
+        "amount": 2943,
+        "category": "bills",
+        "description": "Internet bill"
+    },
+    {
+        "date": "2023-03-12",
+        "amount": -7,
+        "category": "bills",
+        "description": "Phone bill"
+    },
+    {
+        "date": "2022-07-07",
+        "amount": -470,
+        "category": "education",
+        "description": "Books and materials"
+    },
+    {
+        "date": "2022-08-02",
+        "amount": -2471,
+        "category": "clothing",
+        "description": "Fashion accessories"
+    },
+    {
+        "date": "2022-11-03",
+        "amount": 4161,
+        "category": "clothing",
+        "description": "Shoe shopping"
+    },
+    {
+        "date": "2023-03-11",
+        "amount": -1594,
+        "category": "clothing",
+        "description": "Shoe shopping"
+    },
+    {
+        "date": "2022-08-29",
+        "amount": -4466,
+        "category": "groceries",
+        "description": "Grocery shopping"
+    },
+    {
+        "date": "2023-02-22",
+        "amount": 380,
+        "category": "clothing",
+        "description": "Shoe shopping"
+    },
+    {
+        "date": "2022-06-26",
+        "amount": 2253,
+        "category": "entertainment",
+        "description": "Movie tickets"
+    },
+    {
+        "date": "2022-08-26",
+        "amount": 1572,
+        "category": "clothing",
+        "description": "Shoe shopping"
+    },
+    {
+        "date": "2022-10-30",
+        "amount": 2352,
+        "category": "income",
+        "description": "Trade Market"
+    },
+    {
+        "date": "2023-05-03",
+        "amount": -1136,
+        "category": "income",
+        "description": "salary"
+    },
+    {
+        "date": "2022-08-06",
+        "amount": -871,
+        "category": "entertainment",
+        "description": "Amusement park visit"
+    },
+    {
+        "date": "2023-01-02",
+        "amount": 857,
+        "category": "education",
+        "description": "Tuition fees"
+    },
+    {
+        "date": "2022-07-08",
+        "amount": -2114,
+        "category": "groceries",
+        "description": "Grocery shopping"
+    },
+    {
+        "date": "2022-09-15",
+        "amount": -3945,
+        "category": "income",
+        "description": "salary"
+    },
+    {
+        "date": "2022-10-24",
+        "amount": -565,
+        "category": "groceries",
+        "description": "Food expenses"
+    },
+    {
+        "date": "2023-05-12",
+        "amount": 4175,
+        "category": "clothing",
+        "description": "Clothing purchase"
+    },
+    {
+        "date": "2022-08-22",
+        "amount": 3300,
+        "category": "education",
+        "description": "Tuition fees"
+    },
+    {
+        "date": "2022-08-14",
+        "amount": -3698,
+        "category": "groceries",
+        "description": "Food expenses"
+    },
+    {
+        "date": "2023-01-30",
+        "amount": -1257,
+        "category": "education",
+        "description": "Online course payment"
+    },
+    {
+        "date": "2022-07-30",
+        "amount": -1713,
+        "category": "healthcare",
+        "description": "Healthcare services"
+    },
+    {
+        "date": "2023-02-14",
+        "amount": 933,
+        "category": "clothing",
+        "description": "Fashion accessories"
+    },
+    {
+        "date": "2023-02-04",
+        "amount": 3513,
+        "category": "healthcare",
+        "description": "Healthcare services"
+    },
+    {
+        "date": "2022-05-30",
+        "amount": -471,
+        "category": "groceries",
+        "description": "Supermarket purchase"
+    },
+    {
+        "date": "2023-05-09",
+        "amount": 1922,
+        "category": "bills",
+        "description": "Utility bill payment"
+    },
+    {
+        "date": "2022-11-01",
+        "amount": -1105,
+        "category": "entertainment",
+        "description": "Movie tickets"
+    },
+    {
+        "date": "2022-10-12",
+        "amount": -2919,
+        "category": "income",
+        "description": "Rent"
+    },
+    {
+        "date": "2022-07-07",
+        "amount": 3813,
+        "category": "healthcare",
+        "description": "Healthcare services"
+    },
+    {
+        "date": "2023-05-13",
+        "amount": 1682,
+        "category": "income",
+        "description": "Rent"
+    },
+    {
+        "date": "2022-11-12",
+        "amount": -1518,
+        "category": "entertainment",
+        "description": "Movie tickets"
+    },
+    {
+        "date": "2022-06-28",
+        "amount": 2410,
+        "category": "income",
+        "description": "salary"
+    },
+    {
+        "date": "2023-05-23",
+        "amount": 4296,
+        "category": "entertainment",
+        "description": "Amusement park visit"
+    },
+    {
+        "date": "2022-05-29",
+        "amount": 1510,
+        "category": "groceries",
+        "description": "Food expenses"
+    },
+    {
+        "date": "2022-07-02",
+        "amount": -4713,
+        "category": "income",
+        "description": "salary"
+    },
+    {
+        "date": "2022-12-08",
+        "amount": -4338,
+        "category": "education",
+        "description": "Online course payment"
+    },
+    {
+        "date": "2022-12-08",
+        "amount": 1387,
+        "category": "clothing",
+        "description": "Fashion accessories"
+    },
+    {
+        "date": "2023-03-21",
+        "amount": -1918,
+        "category": "bills",
+        "description": "Phone bill"
+    },
+    {
+        "date": "2022-10-13",
+        "amount": 4141,
+        "category": "bills",
+        "description": "Internet bill"
+    },
+    {
+        "date": "2023-04-25",
+        "amount": 4719,
+        "category": "healthcare",
+        "description": "Medical expenses"
+    },
+    {
+        "date": "2022-11-22",
+        "amount": -3962,
+        "category": "transportation",
+        "description": "Taxi ride"
+    },
+    {
+        "date": "2023-01-19",
+        "amount": 2934,
+        "category": "groceries",
+        "description": "Grocery shopping"
+    },
+    {
+        "date": "2022-10-06",
+        "amount": 166,
+        "category": "income",
+        "description": "Rent"
+    },
+    {
+        "date": "2022-11-21",
+        "amount": 2999,
+        "category": "entertainment",
+        "description": "Amusement park visit"
+    },
+    {
+        "date": "2022-07-29",
+        "amount": 3291,
+        "category": "clothing",
+        "description": "Clothing purchase"
+    },
+    {
+        "date": "2022-11-22",
+        "amount": 2418,
+        "category": "income",
+        "description": "salary"
+    },
+    {
+        "date": "2023-02-01",
+        "amount": -2424,
+        "category": "education",
+        "description": "Online course payment"
+    },
+    {
+        "date": "2023-04-21",
+        "amount": -3811,
+        "category": "groceries",
+        "description": "Food expenses"
+    },
+    {
+        "date": "2022-08-31",
+        "amount": -1358,
+        "category": "income",
+        "description": "Trade Market"
+    },
+    {
+        "date": "2023-05-23",
+        "amount": -2799,
+        "category": "entertainment",
+        "description": "Concert tickets"
+    },
+    {
+        "date": "2023-03-14",
+        "amount": -2129,
+        "category": "income",
+        "description": "Trade Market"
+    },
+    {
+        "date": "2022-08-25",
+        "amount": -3029,
+        "category": "clothing",
+        "description": "Clothing purchase"
+    },
+    {
+        "date": "2023-01-08",
+        "amount": 926,
+        "category": "clothing",
+        "description": "Fashion accessories"
+    },
+    {
+        "date": "2022-08-02",
+        "amount": 297,
+        "category": "education",
+        "description": "Online course payment"
+    },
+    {
+        "date": "2023-02-15",
+        "amount": -1624,
+        "category": "education",
+        "description": "Books and materials"
+    },
+    {
+        "date": "2022-09-25",
+        "amount": -1696,
+        "category": "entertainment",
+        "description": "Concert tickets"
+    },
+    {
+        "date": "2022-05-31",
+        "amount": -2106,
+        "category": "income",
+        "description": "Trade Market"
+    },
+    {
+        "date": "2022-07-29",
+        "amount": -4766,
+        "category": "income",
+        "description": "salary"
+    },
+    {
+        "date": "2022-08-21",
+        "amount": 1758,
+        "category": "healthcare",
+        "description": "Medical expenses"
+    },
+    {
+        "date": "2022-12-13",
+        "amount": -4214,
+        "category": "entertainment",
+        "description": "Concert tickets"
+    },
+    {
+        "date": "2023-02-16",
+        "amount": -2837,
+        "category": "income",
+        "description": "Rent"
+    },
+    {
+        "date": "2022-07-29",
+        "amount": -4653,
+        "category": "income",
+        "description": "salary"
+    },
+    {
+        "date": "2022-10-08",
+        "amount": 2295,
+        "category": "education",
+        "description": "Tuition fees"
+    },
+    {
+        "date": "2022-11-23",
+        "amount": -1871,
+        "category": "bills",
+        "description": "Phone bill"
+    },
+    {
+        "date": "2022-11-10",
+        "amount": -1483,
+        "category": "healthcare",
+        "description": "Healthcare services"
+    },
+    {
+        "date": "2023-02-19",
+        "amount": 286,
+        "category": "clothing",
+        "description": "Shoe shopping"
+    },
+    {
+        "date": "2023-03-22",
+        "amount": -2592,
+        "category": "education",
+        "description": "Tuition fees"
+    },
+    {
+        "date": "2023-04-20",
+        "amount": 4237,
+        "category": "income",
+        "description": "Rent"
+    },
+    {
+        "date": "2022-10-28",
+        "amount": -258,
+        "category": "bills",
+        "description": "Phone bill"
+    },
+    {
+        "date": "2022-08-27",
+        "amount": 522,
+        "category": "entertainment",
+        "description": "Amusement park visit"
+    },
+    {
+        "date": "2022-10-01",
+        "amount": 1183,
+        "category": "bills",
+        "description": "Phone bill"
+    },
+    {
+        "date": "2022-12-08",
+        "amount": -13,
+        "category": "clothing",
+        "description": "Shoe shopping"
+    },
+    {
+        "date": "2022-09-03",
+        "amount": 1696,
+        "category": "clothing",
+        "description": "Fashion accessories"
+    },
+    {
+        "date": "2022-10-25",
+        "amount": -625,
+        "category": "bills",
+        "description": "Phone bill"
+    },
+    {
+        "date": "2022-09-17",
+        "amount": 80,
+        "category": "entertainment",
+        "description": "Concert tickets"
+    },
+    {
+        "date": "2023-05-02",
+        "amount": -1586,
+        "category": "bills",
+        "description": "Utility bill payment"
+    },
+    {
+        "date": "2022-09-23",
+        "amount": 1839,
+        "category": "entertainment",
+        "description": "Concert tickets"
+    },
+    {
+        "date": "2022-09-01",
+        "amount": -1135,
+        "category": "healthcare",
+        "description": "Pharmacy purchase"
+    },
+    {
+        "date": "2023-05-08",
+        "amount": 1769,
+        "category": "transportation",
+        "description": "Gasoline expenses"
+    },
+    {
+        "date": "2022-07-27",
+        "amount": -4173,
+        "category": "income",
+        "description": "Rent"
+    },
+    {
+        "date": "2023-02-07",
+        "amount": -4487,
+        "category": "education",
+        "description": "Online course payment"
+    },
+    {
+        "date": "2022-09-15",
+        "amount": 239,
+        "category": "education",
+        "description": "Online course payment"
+    },
+    {
+        "date": "2022-07-19",
+        "amount": -815,
+        "category": "transportation",
+        "description": "Public transportation fare"
+    },
+    {
+        "date": "2022-09-15",
+        "amount": 1681,
+        "category": "bills",
+        "description": "Utility bill payment"
+    },
+    {
+        "date": "2023-01-18",
+        "amount": 4972,
+        "category": "transportation",
+        "description": "Public transportation fare"
+    },
+    {
+        "date": "2022-08-19",
+        "amount": 1958,
+        "category": "education",
+        "description": "Online course payment"
+    },
+    {
+        "date": "2023-01-27",
+        "amount": -4033,
+        "category": "education",
+        "description": "Online course payment"
+    },
+    {
+        "date": "2022-12-30",
+        "amount": 3986,
+        "category": "bills",
+        "description": "Phone bill"
+    },
+    {
+        "date": "2023-04-14",
+        "amount": 3244,
+        "category": "clothing",
+        "description": "Shoe shopping"
+    },
+    {
+        "date": "2023-01-02",
+        "amount": 4924,
+        "category": "healthcare",
+        "description": "Pharmacy purchase"
+    },
+    {
+        "date": "2022-07-23",
+        "amount": 1362,
+        "category": "bills",
+        "description": "Internet bill"
+    },
+    {
+        "date": "2022-06-15",
+        "amount": -1321,
+        "category": "education",
+        "description": "Tuition fees"
+    },
+    {
+        "date": "2022-09-03",
+        "amount": 2597,
+        "category": "groceries",
+        "description": "Food expenses"
+    },
+    {
+        "date": "2023-01-25",
+        "amount": -4608,
+        "category": "clothing",
+        "description": "Shoe shopping"
+    },
+    {
+        "date": "2023-02-20",
+        "amount": -3821,
+        "category": "clothing",
+        "description": "Clothing purchase"
+    },
+    {
+        "date": "2022-06-18",
+        "amount": 4837,
+        "category": "groceries",
+        "description": "Food expenses"
+    },
+    {
+        "date": "2023-05-05",
+        "amount": -585,
+        "category": "groceries",
+        "description": "Grocery shopping"
+    },
+    {
+        "date": "2023-02-12",
+        "amount": -3004,
+        "category": "healthcare",
+        "description": "Pharmacy purchase"
+    },
+    {
+        "date": "2023-02-14",
+        "amount": 2247,
+        "category": "education",
+        "description": "Online course payment"
+    },
+    {
+        "date": "2022-07-14",
+        "amount": -2924,
+        "category": "groceries",
+        "description": "Food expenses"
+    },
+    {
+        "date": "2023-05-04",
+        "amount": 808,
+        "category": "entertainment",
+        "description": "Amusement park visit"
+    },
+    {
+        "date": "2022-11-04",
+        "amount": -1449,
+        "category": "entertainment",
+        "description": "Movie tickets"
+    },
+    {
+        "date": "2022-08-20",
+        "amount": -685,
+        "category": "groceries",
+        "description": "Supermarket purchase"
+    },
+    {
+        "date": "2023-05-16",
+        "amount": -793,
+        "category": "entertainment",
+        "description": "Amusement park visit"
+    },
+    {
+        "date": "2023-04-18",
+        "amount": -4952,
+        "category": "groceries",
+        "description": "Grocery shopping"
+    },
+    {
+        "date": "2022-12-10",
+        "amount": -1329,
+        "category": "bills",
+        "description": "Utility bill payment"
+    },
+    {
+        "date": "2022-05-29",
+        "amount": -728,
+        "category": "healthcare",
+        "description": "Medical expenses"
+    },
+    {
+        "date": "2022-09-29",
+        "amount": 2314,
+        "category": "clothing",
+        "description": "Shoe shopping"
+    },
+    {
+        "date": "2022-11-11",
+        "amount": -2820,
+        "category": "bills",
+        "description": "Internet bill"
+    },
+    {
+        "date": "2022-10-04",
+        "amount": -1795,
+        "category": "groceries",
+        "description": "Grocery shopping"
+    },
+    {
+        "date": "2023-01-14",
+        "amount": 1686,
+        "category": "groceries",
+        "description": "Grocery shopping"
+    },
+    {
+        "date": "2023-04-21",
+        "amount": 4134,
+        "category": "groceries",
+        "description": "Grocery shopping"
+    },
+    {
+        "date": "2022-11-24",
+        "amount": -3902,
+        "category": "bills",
+        "description": "Internet bill"
+    },
+    {
+        "date": "2023-05-08",
+        "amount": -2429,
+        "category": "education",
+        "description": "Tuition fees"
+    },
+    {
+        "date": "2022-08-13",
+        "amount": 1110,
+        "category": "entertainment",
+        "description": "Movie tickets"
+    },
+    {
+        "date": "2023-01-26",
+        "amount": 4090,
+        "category": "groceries",
+        "description": "Food expenses"
+    },
+    {
+        "date": "2023-01-28",
+        "amount": 1698,
+        "category": "transportation",
+        "description": "Public transportation fare"
+    },
+    {
+        "date": "2023-04-30",
+        "amount": 3251,
+        "category": "entertainment",
+        "description": "Movie tickets"
+    },
+    {
+        "date": "2022-06-09",
+        "amount": 2971,
+        "category": "income",
+        "description": "Rent"
+    },
+    {
+        "date": "2023-03-04",
+        "amount": 1241,
+        "category": "groceries",
+        "description": "Grocery shopping"
+    },
+    {
+        "date": "2022-06-30",
+        "amount": 2242,
+        "category": "transportation",
+        "description": "Gasoline expenses"
+    },
+    {
+        "date": "2022-05-26",
+        "amount": 2650,
+        "category": "groceries",
+        "description": "Supermarket purchase"
+    },
+    {
+        "date": "2022-10-10",
+        "amount": 1580,
+        "category": "healthcare",
+        "description": "Healthcare services"
+    },
+    {
+        "date": "2023-01-24",
+        "amount": 935,
+        "category": "education",
+        "description": "Online course payment"
+    },
+    {
+        "date": "2022-07-07",
+        "amount": -3983,
+        "category": "entertainment",
+        "description": "Movie tickets"
+    },
+    {
+        "date": "2022-10-28",
+        "amount": -4996,
+        "category": "groceries",
+        "description": "Food expenses"
+    },
+    {
+        "date": "2023-04-24",
+        "amount": 264,
+        "category": "entertainment",
+        "description": "Movie tickets"
+    },
+    {
+        "date": "2022-08-21",
+        "amount": 3692,
+        "category": "bills",
+        "description": "Phone bill"
+    },
+    {
+        "date": "2022-09-05",
+        "amount": 2050,
+        "category": "education",
+        "description": "Online course payment"
+    },
+    {
+        "date": "2023-03-31",
+        "amount": 1657,
+        "category": "entertainment",
+        "description": "Concert tickets"
+    },
+    {
+        "date": "2023-02-16",
+        "amount": 1409,
+        "category": "groceries",
+        "description": "Supermarket purchase"
+    },
+    {
+        "date": "2023-03-12",
+        "amount": -3881,
+        "category": "transportation",
+        "description": "Public transportation fare"
+    },
+    {
+        "date": "2022-09-28",
+        "amount": 4569,
+        "category": "groceries",
+        "description": "Grocery shopping"
+    },
+    {
+        "date": "2022-12-02",
+        "amount": 2072,
+        "category": "clothing",
+        "description": "Shoe shopping"
+    },
+    {
+        "date": "2023-04-17",
+        "amount": -444,
+        "category": "entertainment",
+        "description": "Movie tickets"
+    },
+    {
+        "date": "2022-07-11",
+        "amount": -4594,
+        "category": "education",
+        "description": "Books and materials"
+    },
+    {
+        "date": "2023-02-16",
+        "amount": -2183,
+        "category": "clothing",
+        "description": "Shoe shopping"
+    },
+    {
+        "date": "2022-06-27",
+        "amount": -576,
+        "category": "healthcare",
+        "description": "Pharmacy purchase"
+    },
+    {
+        "date": "2022-07-17",
+        "amount": -4947,
+        "category": "bills",
+        "description": "Internet bill"
+    },
+    {
+        "date": "2022-08-19",
+        "amount": 4461,
+        "category": "clothing",
+        "description": "Clothing purchase"
+    },
+    {
+        "date": "2022-09-24",
+        "amount": 3934,
+        "category": "healthcare",
+        "description": "Pharmacy purchase"
+    },
+    {
+        "date": "2022-09-29",
+        "amount": 4909,
+        "category": "clothing",
+        "description": "Clothing purchase"
+    },
+    {
+        "date": "2022-06-07",
+        "amount": -4481,
+        "category": "clothing",
+        "description": "Clothing purchase"
+    },
+    {
+        "date": "2023-02-19",
+        "amount": 2409,
+        "category": "clothing",
+        "description": "Clothing purchase"
+    },
+    {
+        "date": "2022-08-12",
+        "amount": 4321,
+        "category": "education",
+        "description": "Tuition fees"
+    },
+    {
+        "date": "2023-04-14",
+        "amount": 3653,
+        "category": "income",
+        "description": "Rent"
+    },
+    {
+        "date": "2022-12-28",
+        "amount": -2199,
+        "category": "clothing",
+        "description": "Fashion accessories"
+    },
+    {
+        "date": "2022-11-11",
+        "amount": -1178,
+        "category": "bills",
+        "description": "Utility bill payment"
+    },
+    {
+        "date": "2022-08-24",
+        "amount": -3972,
+        "category": "transportation",
+        "description": "Taxi ride"
+    },
+    {
+        "date": "2022-07-31",
+        "amount": 1368,
+        "category": "education",
+        "description": "Books and materials"
+    },
+    {
+        "date": "2023-03-27",
+        "amount": -3020,
+        "category": "education",
+        "description": "Books and materials"
+    },
+    {
+        "date": "2023-05-01",
+        "amount": 2910,
+        "category": "income",
+        "description": "salary"
+    },
+    {
+        "date": "2022-12-31",
+        "amount": -379,
+        "category": "transportation",
+        "description": "Public transportation fare"
+    },
+    {
+        "date": "2022-12-06",
+        "amount": 61,
+        "category": "bills",
+        "description": "Utility bill payment"
+    },
+    {
+        "date": "2022-10-15",
+        "amount": 2638,
+        "category": "groceries",
+        "description": "Grocery shopping"
+    },
+    {
+        "date": "2023-05-16",
+        "amount": 2154,
+        "category": "transportation",
+        "description": "Gasoline expenses"
+    },
+    {
+        "date": "2022-10-15",
+        "amount": -3054,
+        "category": "entertainment",
+        "description": "Concert tickets"
+    },
+    {
+        "date": "2022-12-21",
+        "amount": 686,
+        "category": "groceries",
+        "description": "Supermarket purchase"
+    },
+    {
+        "date": "2022-10-23",
+        "amount": -4608,
+        "category": "clothing",
+        "description": "Shoe shopping"
+    },
+    {
+        "date": "2022-10-21",
+        "amount": 3159,
+        "category": "clothing",
+        "description": "Clothing purchase"
+    },
+    {
+        "date": "2022-06-04",
+        "amount": -3047,
+        "category": "clothing",
+        "description": "Shoe shopping"
+    },
+    {
+        "date": "2023-04-04",
+        "amount": -2909,
+        "category": "income",
+        "description": "Trade Market"
+    },
+    {
+        "date": "2023-01-31",
+        "amount": -1791,
+        "category": "groceries",
+        "description": "Grocery shopping"
+    },
+    {
+        "date": "2023-03-29",
+        "amount": -4643,
+        "category": "transportation",
+        "description": "Public transportation fare"
+    },
+    {
+        "date": "2022-09-21",
+        "amount": 3621,
+        "category": "groceries",
+        "description": "Food expenses"
+    },
+    {
+        "date": "2022-06-25",
+        "amount": 241,
+        "category": "transportation",
+        "description": "Taxi ride"
+    },
+    {
+        "date": "2022-08-17",
+        "amount": -3738,
+        "category": "groceries",
+        "description": "Grocery shopping"
+    },
+    {
+        "date": "2023-01-05",
+        "amount": -4127,
+        "category": "income",
+        "description": "salary"
+    },
+    {
+        "date": "2022-06-12",
+        "amount": 4136,
+        "category": "healthcare",
+        "description": "Medical expenses"
+    },
+    {
+        "date": "2023-03-19",
+        "amount": -1631,
+        "category": "income",
+        "description": "Trade Market"
+    },
+    {
+        "date": "2023-02-13",
+        "amount": -3710,
+        "category": "clothing",
+        "description": "Clothing purchase"
+    },
+    {
+        "date": "2022-08-01",
+        "amount": -2256,
+        "category": "entertainment",
+        "description": "Amusement park visit"
+    },
+    {
+        "date": "2022-07-10",
+        "amount": -909,
+        "category": "income",
+        "description": "Rent"
+    },
+    {
+        "date": "2022-06-10",
+        "amount": -2088,
+        "category": "clothing",
+        "description": "Fashion accessories"
+    },
+    {
+        "date": "2022-11-07",
+        "amount": 1697,
+        "category": "income",
+        "description": "salary"
+    },
+    {
+        "date": "2023-01-21",
+        "amount": 3930,
+        "category": "clothing",
+        "description": "Shoe shopping"
+    },
+    {
+        "date": "2022-12-15",
+        "amount": -3062,
+        "category": "transportation",
+        "description": "Gasoline expenses"
+    },
+    {
+        "date": "2023-01-03",
+        "amount": -3253,
+        "category": "education",
+        "description": "Tuition fees"
+    },
+    {
+        "date": "2022-10-22",
+        "amount": -2121,
+        "category": "education",
+        "description": "Tuition fees"
+    },
+    {
+        "date": "2022-10-11",
+        "amount": 2650,
+        "category": "income",
+        "description": "Trade Market"
+    },
+    {
+        "date": "2022-11-15",
+        "amount": -4052,
+        "category": "groceries",
+        "description": "Food expenses"
+    }
+]

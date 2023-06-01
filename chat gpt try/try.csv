@@ -1,0 +1,1014 @@
+date,amount,category,description
+2021-01-01,1000,income,salary
+2021-01-02,-50,groceries,milk and eggs
+2021-01-03,-100,entertainment,movie tickets
+2021-01-04,-20,transportation,bus fare
+2021-01-05,-200,bills,electricity bill
+2021-01-06,-30,groceries,bread and cheese
+2021-01-07,-150,clothing,new shoes
+2021-01-08,-40,healthcare,prescription drugs
+2021-01-09,-80,education,online course
+2021-01-10,-60,entertainment,pizza delivery
+2021-01-11,-25,transportation,taxi ride
+2021-01-12,-300,bills,internet bill
+2021-01-13,-50,groceries,fruits and vegetables
+2023-04-27,2456,clothing,Shoe shopping
+2023-03-17,-1036,clothing,Shoe shopping
+2022-12-03,2088,clothing,Clothing purchase
+2022-09-24,1159,education,Books and materials
+2023-03-15,-4915,clothing,Shoe shopping
+2023-05-14,-1593,clothing,Clothing purchase
+2022-10-17,-325,clothing,Fashion accessories
+2022-09-07,-1930,income,Rent
+2023-01-30,-4963,groceries,Food expenses
+2023-03-25,-4637,transportation,Gasoline expenses
+2023-05-16,3401,transportation,Taxi ride
+2022-07-25,-530,healthcare,Healthcare services
+2022-07-08,4002,clothing,Shoe shopping
+2022-08-13,-2904,income,Rent
+2022-09-05,182,bills,Phone bill
+2023-03-29,-4514,education,Tuition fees
+2023-03-31,-2904,education,Online course payment
+2022-07-01,2116,transportation,Public transportation fare
+2022-08-15,-2353,entertainment,Movie tickets
+2023-03-22,-1536,transportation,Gasoline expenses
+2022-08-03,-805,groceries,Supermarket purchase
+2023-04-14,4173,groceries,Supermarket purchase
+2023-04-24,2358,clothing,Fashion accessories
+2022-10-07,-1078,entertainment,Concert tickets
+2022-09-23,45,clothing,Clothing purchase
+2023-05-08,3782,entertainment,Concert tickets
+2022-07-25,-2553,healthcare,Pharmacy purchase
+2022-06-02,-4843,healthcare,Pharmacy purchase
+2022-10-17,4927,education,Books and materials
+2022-10-11,-2445,income,Trade Market
+2022-08-12,2529,income,Rent
+2023-03-04,4307,healthcare,Pharmacy purchase
+2022-07-04,-2528,groceries,Supermarket purchase
+2023-03-18,1494,clothing,Clothing purchase
+2023-03-20,-2802,healthcare,Pharmacy purchase
+2022-07-22,1847,income,salary
+2023-05-15,-1403,healthcare,Medical expenses
+2022-08-08,-3293,entertainment,Movie tickets
+2022-08-05,-3248,education,Tuition fees
+2023-02-23,4595,groceries,Grocery shopping
+2022-06-14,2413,education,Books and materials
+2023-01-27,-3824,groceries,Food expenses
+2023-04-24,1255,education,Tuition fees
+2022-07-15,4888,clothing,Fashion accessories
+2022-05-30,4145,groceries,Food expenses
+2023-04-08,-3739,income,salary
+2023-02-03,666,income,Rent
+2023-05-10,-2865,clothing,Clothing purchase
+2022-08-25,-231,entertainment,Amusement park visit
+2023-04-16,3150,healthcare,Pharmacy purchase
+2023-02-11,-4609,healthcare,Medical expenses
+2023-01-23,1762,groceries,Food expenses
+2023-05-06,2022,transportation,Gasoline expenses
+2022-09-19,2385,clothing,Shoe shopping
+2022-06-09,4868,entertainment,Movie tickets
+2022-11-25,-4128,healthcare,Medical expenses
+2022-09-03,-3404,bills,Internet bill
+2022-10-29,-2542,healthcare,Medical expenses
+2023-01-30,-2259,clothing,Clothing purchase
+2023-03-04,2499,education,Tuition fees
+2023-05-17,4384,bills,Utility bill payment
+2022-07-25,-2377,bills,Utility bill payment
+2022-06-06,-3912,groceries,Grocery shopping
+2022-11-30,4528,groceries,Food expenses
+2023-04-08,1556,income,Trade Market
+2022-07-29,3269,transportation,Public transportation fare
+2023-05-23,-1233,healthcare,Medical expenses
+2023-03-30,60,income,salary
+2022-11-04,-3999,healthcare,Healthcare services
+2022-07-10,-3008,clothing,Fashion accessories
+2022-08-21,-1765,education,Tuition fees
+2023-03-06,-2285,groceries,Supermarket purchase
+2022-05-26,2148,income,salary
+2022-10-25,774,clothing,Clothing purchase
+2023-02-15,1464,bills,Utility bill payment
+2023-05-05,3553,education,Books and materials
+2023-05-20,1462,healthcare,Pharmacy purchase
+2022-06-10,1540,transportation,Public transportation fare
+2023-03-24,1814,education,Books and materials
+2023-01-20,-1089,clothing,Clothing purchase
+2022-10-25,4318,healthcare,Medical expenses
+2023-02-19,-1970,transportation,Public transportation fare
+2022-08-05,2507,income,salary
+2023-04-25,-2944,transportation,Gasoline expenses
+2023-05-22,2663,income,Trade Market
+2022-06-15,-3430,entertainment,Movie tickets
+2022-07-16,-1706,entertainment,Movie tickets
+2022-07-21,4760,income,Rent
+2023-01-18,-2328,education,Online course payment
+2023-04-22,2103,healthcare,Healthcare services
+2023-02-16,1465,bills,Phone bill
+2022-12-22,575,clothing,Fashion accessories
+2022-09-22,730,clothing,Clothing purchase
+2023-01-21,4860,bills,Phone bill
+2023-02-22,-4992,clothing,Fashion accessories
+2023-01-03,-2042,education,Online course payment
+2023-02-25,3399,entertainment,Movie tickets
+2022-07-01,4966,income,Rent
+2022-10-03,602,education,Books and materials
+2023-02-14,2933,bills,Phone bill
+2022-09-19,-4379,entertainment,Movie tickets
+2023-03-13,-2180,entertainment,Concert tickets
+2023-03-04,-1332,education,Books and materials
+2023-05-14,-2600,clothing,Shoe shopping
+2022-09-26,-92,bills,Phone bill
+2023-01-28,-789,entertainment,Amusement park visit
+2022-08-29,-651,transportation,Gasoline expenses
+2022-11-02,3983,income,Rent
+2022-12-19,-1927,transportation,Public transportation fare
+2022-05-25,55,transportation,Gasoline expenses
+2023-02-17,-3029,income,Rent
+2023-01-14,-1316,income,Trade Market
+2022-10-03,2740,transportation,Taxi ride
+2023-02-03,-3445,healthcare,Healthcare services
+2023-05-17,1197,clothing,Fashion accessories
+2022-09-20,4269,education,Tuition fees
+2022-10-13,-956,entertainment,Amusement park visit
+2022-08-28,-1586,healthcare,Pharmacy purchase
+2022-10-17,-1735,entertainment,Movie tickets
+2023-05-17,3086,healthcare,Medical expenses
+2023-03-15,-3646,income,Trade Market
+2022-07-17,1728,entertainment,Concert tickets
+2023-03-27,-818,entertainment,Concert tickets
+2023-04-28,146,groceries,Food expenses
+2023-03-06,2940,education,Online course payment
+2022-12-23,2562,groceries,Supermarket purchase
+2023-05-18,4155,bills,Utility bill payment
+2022-10-16,-812,transportation,Public transportation fare
+2023-05-06,2632,transportation,Public transportation fare
+2022-10-02,-451,clothing,Fashion accessories
+2022-12-14,-1216,bills,Internet bill
+2022-12-19,-2302,groceries,Supermarket purchase
+2023-02-25,-2941,clothing,Shoe shopping
+2023-04-23,-3077,clothing,Fashion accessories
+2022-07-13,-160,clothing,Fashion accessories
+2022-08-31,-3515,bills,Phone bill
+2023-01-16,4623,healthcare,Healthcare services
+2022-07-21,3715,healthcare,Healthcare services
+2023-04-02,-2468,entertainment,Movie tickets
+2022-12-26,661,groceries,Grocery shopping
+2023-05-14,-1110,clothing,Clothing purchase
+2023-02-28,-2418,education,Online course payment
+2023-02-25,-4940,healthcare,Healthcare services
+2023-02-21,3923,education,Online course payment
+2022-11-02,4817,bills,Internet bill
+2022-10-26,3963,transportation,Public transportation fare
+2022-09-21,1559,healthcare,Pharmacy purchase
+2022-07-17,1341,clothing,Shoe shopping
+2023-05-03,-2171,clothing,Fashion accessories
+2022-11-26,1932,income,salary
+2022-11-10,1626,transportation,Gasoline expenses
+2022-07-11,2196,healthcare,Pharmacy purchase
+2023-05-22,-1219,income,Rent
+2023-02-19,397,clothing,Fashion accessories
+2023-03-12,2032,income,Trade Market
+2023-05-22,788,clothing,Fashion accessories
+2023-01-15,-4564,transportation,Gasoline expenses
+2023-01-28,-1389,education,Online course payment
+2022-11-22,-2623,income,Rent
+2022-09-15,-4376,entertainment,Movie tickets
+2022-07-07,363,entertainment,Concert tickets
+2023-03-02,1108,income,salary
+2022-10-08,381,education,Online course payment
+2022-08-18,-2321,groceries,Grocery shopping
+2023-01-03,-1846,transportation,Gasoline expenses
+2022-11-02,-3621,clothing,Shoe shopping
+2022-07-18,2112,groceries,Food expenses
+2023-04-04,-2944,groceries,Food expenses
+2022-09-30,941,transportation,Public transportation fare
+2022-12-21,-2553,transportation,Taxi ride
+2022-10-31,-4452,bills,Phone bill
+2022-07-25,-4024,income,salary
+2023-02-01,2455,transportation,Taxi ride
+2022-07-04,-2014,healthcare,Healthcare services
+2023-02-24,1769,income,Rent
+2023-02-16,2494,entertainment,Movie tickets
+2022-07-09,-4667,entertainment,Amusement park visit
+2023-01-24,-1200,transportation,Public transportation fare
+2022-08-27,-225,entertainment,Movie tickets
+2023-01-13,-942,healthcare,Pharmacy purchase
+2022-06-29,494,income,Rent
+2022-12-30,3601,entertainment,Concert tickets
+2023-01-03,-63,groceries,Supermarket purchase
+2022-06-03,1844,entertainment,Concert tickets
+2023-04-14,-1076,education,Tuition fees
+2022-09-07,916,entertainment,Concert tickets
+2023-05-12,3391,groceries,Food expenses
+2022-06-01,-2490,entertainment,Concert tickets
+2022-12-29,-2923,healthcare,Medical expenses
+2022-10-09,-3404,clothing,Fashion accessories
+2023-05-02,4853,clothing,Clothing purchase
+2022-06-27,4941,transportation,Taxi ride
+2023-01-17,-1136,education,Tuition fees
+2022-06-08,-3259,income,Rent
+2022-09-03,2870,groceries,Supermarket purchase
+2022-06-24,-3946,transportation,Taxi ride
+2022-12-31,554,bills,Phone bill
+2023-03-26,-1271,clothing,Fashion accessories
+2022-09-11,1315,clothing,Fashion accessories
+2022-09-26,-3977,entertainment,Amusement park visit
+2022-06-26,4800,education,Online course payment
+2023-01-02,1093,income,salary
+2022-06-25,2307,bills,Internet bill
+2022-06-05,-4350,transportation,Gasoline expenses
+2022-11-10,-2721,clothing,Clothing purchase
+2023-05-24,-1314,groceries,Supermarket purchase
+2023-05-01,-597,entertainment,Concert tickets
+2022-11-02,1713,entertainment,Amusement park visit
+2023-04-22,-4603,income,salary
+2023-04-24,-510,healthcare,Medical expenses
+2022-08-20,-3802,entertainment,Movie tickets
+2023-01-17,4985,bills,Phone bill
+2022-07-04,2754,clothing,Clothing purchase
+2022-08-23,-2685,clothing,Clothing purchase
+2023-01-07,-1404,bills,Internet bill
+2022-08-26,3313,clothing,Fashion accessories
+2023-02-25,-3844,income,Trade Market
+2023-02-13,2203,bills,Phone bill
+2022-07-02,-793,bills,Phone bill
+2023-02-05,2049,income,salary
+2022-08-08,-375,education,Books and materials
+2023-05-14,3773,income,Rent
+2022-11-04,-4377,groceries,Grocery shopping
+2022-10-03,2455,clothing,Clothing purchase
+2022-12-04,46,bills,Utility bill payment
+2022-05-31,3167,clothing,Fashion accessories
+2022-11-07,3620,income,Rent
+2023-04-03,313,income,salary
+2022-09-16,2286,education,Online course payment
+2023-02-28,4328,healthcare,Healthcare services
+2022-11-24,-4132,healthcare,Healthcare services
+2022-06-03,153,transportation,Gasoline expenses
+2022-11-14,-2745,healthcare,Healthcare services
+2022-08-03,-2204,education,Books and materials
+2022-06-27,1135,clothing,Shoe shopping
+2022-09-27,-4942,education,Books and materials
+2022-11-03,-1657,income,Trade Market
+2022-06-23,-3673,transportation,Gasoline expenses
+2022-10-24,-2731,education,Books and materials
+2022-10-04,3790,healthcare,Healthcare services
+2022-09-15,-2199,education,Books and materials
+2022-09-17,4302,healthcare,Medical expenses
+2023-03-14,-903,transportation,Public transportation fare
+2023-01-07,1211,transportation,Gasoline expenses
+2023-04-05,406,income,Trade Market
+2023-05-18,2088,groceries,Food expenses
+2022-08-05,3823,education,Tuition fees
+2022-06-03,2417,bills,Utility bill payment
+2022-06-17,-40,entertainment,Concert tickets
+2022-12-02,3216,education,Tuition fees
+2022-06-20,1827,income,Rent
+2022-12-23,-559,clothing,Shoe shopping
+2023-03-18,481,transportation,Public transportation fare
+2023-05-06,-1587,education,Online course payment
+2023-05-06,2315,clothing,Clothing purchase
+2022-11-26,-1211,clothing,Shoe shopping
+2023-04-20,2752,entertainment,Amusement park visit
+2022-11-17,-4224,entertainment,Movie tickets
+2022-06-17,-2100,clothing,Shoe shopping
+2023-01-07,-1559,transportation,Public transportation fare
+2022-12-20,-2578,clothing,Fashion accessories
+2023-03-07,-2050,healthcare,Medical expenses
+2022-09-18,4246,bills,Phone bill
+2022-12-14,-648,bills,Utility bill payment
+2022-10-19,1779,clothing,Shoe shopping
+2022-06-08,1429,clothing,Shoe shopping
+2022-06-17,1096,transportation,Taxi ride
+2022-08-26,-1566,healthcare,Medical expenses
+2023-04-17,43,transportation,Taxi ride
+2022-06-01,-3093,clothing,Fashion accessories
+2023-02-26,-2922,healthcare,Healthcare services
+2022-07-26,507,transportation,Public transportation fare
+2022-10-12,4252,entertainment,Amusement park visit
+2022-10-08,-4293,healthcare,Medical expenses
+2022-09-16,3081,groceries,Grocery shopping
+2023-05-20,202,income,Rent
+2022-09-23,-85,bills,Internet bill
+2022-10-30,3704,education,Books and materials
+2023-03-22,1503,entertainment,Amusement park visit
+2023-05-11,-4487,healthcare,Medical expenses
+2023-01-15,-4113,clothing,Fashion accessories
+2022-09-23,-257,groceries,Grocery shopping
+2022-06-11,-4506,bills,Utility bill payment
+2022-05-26,490,bills,Utility bill payment
+2022-09-05,260,education,Online course payment
+2023-05-16,-1646,income,Trade Market
+2023-04-01,1558,clothing,Fashion accessories
+2022-12-10,-851,bills,Phone bill
+2022-11-12,4628,healthcare,Pharmacy purchase
+2022-08-26,-3840,clothing,Fashion accessories
+2022-12-05,4905,transportation,Gasoline expenses
+2023-04-17,-4974,bills,Utility bill payment
+2022-07-10,39,income,Rent
+2022-08-14,38,entertainment,Concert tickets
+2023-05-15,-353,income,Trade Market
+2022-07-21,-3881,healthcare,Medical expenses
+2022-11-11,4397,bills,Utility bill payment
+2022-10-16,-4746,bills,Phone bill
+2022-07-30,621,clothing,Fashion accessories
+2022-08-03,-343,entertainment,Concert tickets
+2022-06-26,-2491,entertainment,Concert tickets
+2022-06-29,2066,groceries,Grocery shopping
+2022-07-07,4410,income,Trade Market
+2023-01-20,3137,clothing,Fashion accessories
+2023-02-13,-2100,groceries,Supermarket purchase
+2023-05-13,-3139,healthcare,Medical expenses
+2023-01-14,-1645,entertainment,Movie tickets
+2023-05-07,-4027,groceries,Grocery shopping
+2022-11-14,3692,transportation,Taxi ride
+2022-10-19,3852,clothing,Fashion accessories
+2023-03-13,-3518,groceries,Food expenses
+2023-04-10,2684,bills,Utility bill payment
+2022-08-23,-2922,education,Tuition fees
+2022-06-02,1931,education,Books and materials
+2023-04-26,2644,transportation,Gasoline expenses
+2022-09-17,4532,education,Books and materials
+2022-09-05,-4080,education,Books and materials
+2022-07-16,-410,education,Tuition fees
+2023-04-13,3818,groceries,Supermarket purchase
+2022-05-28,1211,clothing,Fashion accessories
+2022-09-15,518,clothing,Fashion accessories
+2022-11-07,-1017,transportation,Taxi ride
+2022-11-08,-4518,education,Tuition fees
+2023-04-19,-2843,groceries,Supermarket purchase
+2023-03-16,-3538,transportation,Gasoline expenses
+2023-02-15,3315,groceries,Supermarket purchase
+2022-06-27,583,groceries,Supermarket purchase
+2022-08-06,-1764,income,Rent
+2023-03-14,1288,bills,Phone bill
+2023-04-10,3577,entertainment,Amusement park visit
+2022-07-13,3625,groceries,Supermarket purchase
+2022-09-02,-1425,healthcare,Medical expenses
+2023-04-14,4065,clothing,Shoe shopping
+2022-07-28,-469,healthcare,Healthcare services
+2023-01-13,-231,transportation,Public transportation fare
+2023-05-21,-2010,healthcare,Medical expenses
+2022-09-17,-1207,bills,Phone bill
+2022-11-16,-1208,education,Online course payment
+2023-01-14,-1244,entertainment,Concert tickets
+2022-08-08,-4416,education,Books and materials
+2022-07-14,-939,groceries,Food expenses
+2023-03-10,-3650,bills,Internet bill
+2023-04-01,4932,education,Online course payment
+2022-09-16,-3251,bills,Phone bill
+2022-12-05,595,groceries,Food expenses
+2023-01-31,3970,income,Trade Market
+2023-02-23,3837,transportation,Gasoline expenses
+2023-04-23,-3819,education,Tuition fees
+2023-05-14,-777,entertainment,Concert tickets
+2022-11-01,-4729,groceries,Grocery shopping
+2023-02-03,4739,healthcare,Medical expenses
+2022-05-30,-4484,clothing,Clothing purchase
+2022-06-22,-1078,clothing,Shoe shopping
+2023-04-17,-81,bills,Internet bill
+2022-07-14,-1159,transportation,Public transportation fare
+2022-07-18,1228,education,Books and materials
+2022-07-23,3099,entertainment,Amusement park visit
+2022-11-21,1452,bills,Utility bill payment
+2022-06-22,3544,healthcare,Pharmacy purchase
+2023-05-25,4463,education,Books and materials
+2023-04-09,616,income,Rent
+2023-01-22,4851,education,Tuition fees
+2023-02-27,-3187,transportation,Taxi ride
+2022-09-01,-3878,income,Trade Market
+2022-11-06,4316,healthcare,Healthcare services
+2023-02-01,-3145,transportation,Gasoline expenses
+2023-04-22,-465,bills,Utility bill payment
+2023-01-03,2941,clothing,Clothing purchase
+2022-07-07,3820,bills,Utility bill payment
+2022-08-01,3346,education,Books and materials
+2022-08-19,721,transportation,Public transportation fare
+2022-08-29,-129,income,Rent
+2023-04-03,3582,income,salary
+2022-06-27,-4783,education,Books and materials
+2022-10-23,3517,entertainment,Concert tickets
+2022-11-04,857,healthcare,Medical expenses
+2022-05-31,-352,bills,Phone bill
+2023-04-06,-2147,groceries,Supermarket purchase
+2022-05-28,-2572,bills,Utility bill payment
+2023-01-12,3352,bills,Utility bill payment
+2022-09-01,-4601,income,salary
+2022-11-08,-2685,clothing,Clothing purchase
+2022-07-15,4636,transportation,Public transportation fare
+2022-12-22,-1117,education,Online course payment
+2023-02-15,4736,income,salary
+2022-12-09,3810,clothing,Clothing purchase
+2022-07-28,-3045,groceries,Food expenses
+2023-04-14,-2355,groceries,Grocery shopping
+2023-04-07,-4792,education,Tuition fees
+2023-03-21,1745,entertainment,Amusement park visit
+2022-09-06,2631,transportation,Taxi ride
+2023-01-22,2838,bills,Internet bill
+2022-12-14,3264,transportation,Gasoline expenses
+2023-02-02,2305,bills,Phone bill
+2023-01-29,326,clothing,Shoe shopping
+2022-09-10,659,clothing,Fashion accessories
+2022-08-03,4669,groceries,Food expenses
+2023-03-12,-1270,education,Books and materials
+2022-05-28,-339,entertainment,Movie tickets
+2023-02-02,1330,healthcare,Healthcare services
+2022-10-05,-4429,education,Books and materials
+2022-09-24,-91,transportation,Gasoline expenses
+2022-06-20,-3636,transportation,Public transportation fare
+2022-07-31,-2181,bills,Phone bill
+2023-05-01,-2404,entertainment,Amusement park visit
+2022-10-06,-2497,clothing,Fashion accessories
+2022-06-29,4433,clothing,Shoe shopping
+2022-09-23,-1551,bills,Utility bill payment
+2022-06-05,-559,clothing,Shoe shopping
+2023-03-23,-3749,income,salary
+2023-05-04,-3294,education,Books and materials
+2022-07-30,4201,groceries,Food expenses
+2022-11-30,-347,clothing,Fashion accessories
+2023-03-15,3380,groceries,Food expenses
+2023-01-18,4821,entertainment,Amusement park visit
+2022-11-11,-135,clothing,Shoe shopping
+2023-05-23,-2672,entertainment,Movie tickets
+2022-10-15,-589,education,Books and materials
+2022-06-05,2895,groceries,Supermarket purchase
+2023-03-17,2272,bills,Utility bill payment
+2022-12-06,-798,education,Books and materials
+2023-02-08,-4968,education,Books and materials
+2022-12-08,-2065,groceries,Food expenses
+2023-03-12,1858,entertainment,Concert tickets
+2022-08-28,3817,healthcare,Medical expenses
+2022-05-30,1590,education,Online course payment
+2022-07-18,2450,healthcare,Healthcare services
+2023-01-16,4961,clothing,Shoe shopping
+2023-03-04,3980,income,Trade Market
+2023-04-08,2001,transportation,Taxi ride
+2022-08-29,3973,transportation,Taxi ride
+2023-05-05,1223,income,Trade Market
+2022-10-01,-1945,bills,Utility bill payment
+2022-08-01,3679,income,salary
+2023-03-11,-1652,groceries,Supermarket purchase
+2023-03-25,1844,clothing,Fashion accessories
+2022-11-30,3474,transportation,Public transportation fare
+2022-09-25,-1300,groceries,Supermarket purchase
+2023-01-05,-3973,healthcare,Healthcare services
+2022-10-27,4394,healthcare,Healthcare services
+2022-09-13,2277,bills,Utility bill payment
+2022-07-29,-4752,clothing,Shoe shopping
+2022-07-09,1499,clothing,Fashion accessories
+2023-05-07,-3398,bills,Utility bill payment
+2022-06-14,-2587,transportation,Taxi ride
+2022-06-15,-3184,transportation,Gasoline expenses
+2022-10-29,-4786,bills,Utility bill payment
+2023-04-27,2349,education,Online course payment
+2022-11-03,-3783,clothing,Clothing purchase
+2022-11-30,706,entertainment,Movie tickets
+2022-10-18,-1366,income,Trade Market
+2022-12-28,-4544,income,Trade Market
+2023-04-07,-2532,healthcare,Pharmacy purchase
+2022-08-11,335,education,Online course payment
+2023-02-22,-4360,bills,Utility bill payment
+2022-07-17,988,transportation,Gasoline expenses
+2022-11-29,-256,clothing,Fashion accessories
+2022-09-25,-4366,groceries,Grocery shopping
+2023-04-05,-1601,income,Rent
+2023-01-05,1973,groceries,Food expenses
+2022-10-21,-4403,groceries,Grocery shopping
+2022-08-18,972,income,Rent
+2022-10-20,2389,bills,Phone bill
+2022-11-28,1893,clothing,Fashion accessories
+2022-06-13,-2992,groceries,Food expenses
+2023-05-23,-282,bills,Internet bill
+2023-04-26,-159,entertainment,Concert tickets
+2022-09-13,1161,healthcare,Medical expenses
+2023-01-25,3603,groceries,Grocery shopping
+2022-10-14,1222,income,Trade Market
+2023-05-12,-981,transportation,Gasoline expenses
+2022-12-16,-660,clothing,Clothing purchase
+2023-01-11,-4270,education,Books and materials
+2022-06-04,-442,transportation,Public transportation fare
+2022-10-01,673,income,Trade Market
+2022-08-14,-1289,income,salary
+2022-12-03,-1568,education,Tuition fees
+2022-09-05,4959,groceries,Grocery shopping
+2023-03-15,-1529,clothing,Clothing purchase
+2023-05-01,2888,groceries,Supermarket purchase
+2022-06-23,2750,transportation,Gasoline expenses
+2022-09-19,-3504,education,Online course payment
+2022-06-24,-63,entertainment,Amusement park visit
+2022-08-12,3830,bills,Phone bill
+2022-08-18,-833,groceries,Food expenses
+2022-10-30,999,clothing,Clothing purchase
+2022-12-25,747,bills,Utility bill payment
+2023-03-08,1125,entertainment,Amusement park visit
+2023-03-30,4053,bills,Utility bill payment
+2022-07-12,-4894,bills,Internet bill
+2022-09-08,2196,groceries,Supermarket purchase
+2022-08-16,412,bills,Phone bill
+2022-08-07,3725,entertainment,Amusement park visit
+2022-07-16,-429,transportation,Public transportation fare
+2023-02-09,-4498,clothing,Shoe shopping
+2023-04-13,161,bills,Phone bill
+2023-05-25,-2066,transportation,Gasoline expenses
+2022-08-16,3019,entertainment,Amusement park visit
+2022-07-02,539,healthcare,Medical expenses
+2022-09-02,271,transportation,Public transportation fare
+2023-01-03,-2724,income,Rent
+2022-07-18,4174,healthcare,Healthcare services
+2022-05-28,-4992,groceries,Grocery shopping
+2023-02-01,-763,transportation,Taxi ride
+2022-10-28,3827,healthcare,Healthcare services
+2022-08-03,306,bills,Phone bill
+2022-12-05,3129,transportation,Taxi ride
+2022-05-27,-4005,entertainment,Concert tickets
+2022-12-27,2866,healthcare,Medical expenses
+2022-06-03,-2674,groceries,Supermarket purchase
+2023-02-17,3279,bills,Utility bill payment
+2022-09-10,4816,entertainment,Movie tickets
+2022-12-23,3198,income,Rent
+2022-08-25,754,clothing,Clothing purchase
+2023-05-20,975,income,salary
+2022-11-02,4229,healthcare,Healthcare services
+2022-06-29,-1740,groceries,Food expenses
+2022-12-31,-2349,transportation,Taxi ride
+2022-06-18,4735,groceries,Supermarket purchase
+2022-11-26,3865,income,Rent
+2022-11-22,2916,transportation,Gasoline expenses
+2023-02-07,835,education,Tuition fees
+2022-10-23,1462,transportation,Gasoline expenses
+2023-03-30,-4600,income,salary
+2022-12-15,-2356,groceries,Grocery shopping
+2023-01-20,-3020,transportation,Gasoline expenses
+2022-12-18,2637,transportation,Taxi ride
+2022-07-13,-676,healthcare,Pharmacy purchase
+2023-02-12,2924,groceries,Grocery shopping
+2022-06-12,3709,healthcare,Medical expenses
+2023-05-06,1369,transportation,Public transportation fare
+2023-02-23,4943,education,Online course payment
+2022-08-20,-4072,clothing,Fashion accessories
+2022-08-23,-3084,transportation,Taxi ride
+2023-04-09,-893,transportation,Taxi ride
+2023-01-29,-1647,transportation,Gasoline expenses
+2022-07-15,-4585,entertainment,Movie tickets
+2023-03-12,-2891,transportation,Gasoline expenses
+2022-10-05,-3783,clothing,Fashion accessories
+2023-03-11,-867,clothing,Fashion accessories
+2022-12-24,240,bills,Utility bill payment
+2023-05-22,-2727,healthcare,Medical expenses
+2023-02-26,1782,income,Rent
+2023-04-20,1188,groceries,Food expenses
+2022-06-09,3308,bills,Phone bill
+2023-02-09,4592,entertainment,Concert tickets
+2023-01-02,-3036,bills,Phone bill
+2022-06-24,-1599,transportation,Gasoline expenses
+2023-04-20,1605,clothing,Fashion accessories
+2022-06-23,1675,income,Trade Market
+2022-12-19,-1201,income,salary
+2022-07-17,-989,income,salary
+2023-01-19,-3234,clothing,Clothing purchase
+2022-11-30,-1558,education,Tuition fees
+2022-11-01,-2148,groceries,Food expenses
+2022-08-17,-3900,healthcare,Healthcare services
+2023-01-31,4522,clothing,Clothing purchase
+2023-01-02,3896,clothing,Fashion accessories
+2022-11-14,4550,transportation,Public transportation fare
+2022-08-03,1230,healthcare,Medical expenses
+2022-07-31,-4339,transportation,Taxi ride
+2023-01-01,-1195,bills,Internet bill
+2023-01-23,-2139,education,Online course payment
+2023-05-19,-72,transportation,Public transportation fare
+2022-10-16,2057,education,Books and materials
+2023-04-20,752,clothing,Fashion accessories
+2022-11-04,-923,healthcare,Healthcare services
+2022-08-12,2850,education,Tuition fees
+2023-03-17,-1749,entertainment,Movie tickets
+2023-01-12,-4925,education,Tuition fees
+2023-02-25,1265,entertainment,Concert tickets
+2023-03-02,-3205,healthcare,Medical expenses
+2023-02-11,3889,entertainment,Movie tickets
+2022-07-02,2278,transportation,Public transportation fare
+2022-06-30,-1812,income,salary
+2023-03-16,-3868,income,Trade Market
+2023-04-02,4526,entertainment,Movie tickets
+2023-01-28,-453,bills,Internet bill
+2022-11-10,4453,healthcare,Medical expenses
+2022-08-11,3605,healthcare,Medical expenses
+2023-03-07,3981,bills,Utility bill payment
+2022-12-01,-3137,education,Online course payment
+2022-12-15,4602,entertainment,Concert tickets
+2023-01-31,-2349,groceries,Grocery shopping
+2022-06-24,-3640,groceries,Food expenses
+2022-09-22,-1354,bills,Utility bill payment
+2022-09-21,-2706,groceries,Food expenses
+2023-03-26,959,entertainment,Amusement park visit
+2023-01-26,-3645,entertainment,Concert tickets
+2022-12-11,3544,groceries,Food expenses
+2022-08-21,-1233,transportation,Gasoline expenses
+2022-08-23,4850,clothing,Shoe shopping
+2022-10-02,-4246,clothing,Fashion accessories
+2023-05-05,2114,transportation,Taxi ride
+2023-04-03,2449,income,salary
+2023-04-15,-1900,bills,Utility bill payment
+2022-08-17,4069,education,Books and materials
+2022-09-01,1269,bills,Internet bill
+2022-10-02,1513,clothing,Fashion accessories
+2022-11-25,-66,healthcare,Healthcare services
+2023-03-13,1856,bills,Phone bill
+2022-10-28,-1999,clothing,Fashion accessories
+2022-12-31,-1694,healthcare,Healthcare services
+2023-04-22,2180,bills,Internet bill
+2022-11-25,-3632,clothing,Fashion accessories
+2023-03-19,3767,bills,Phone bill
+2022-11-05,4957,income,Trade Market
+2022-06-20,-720,clothing,Fashion accessories
+2023-03-17,-611,education,Books and materials
+2022-10-08,4080,groceries,Food expenses
+2023-05-11,3291,groceries,Grocery shopping
+2022-08-11,-2007,entertainment,Amusement park visit
+2023-01-30,-2057,bills,Internet bill
+2022-12-02,1406,healthcare,Medical expenses
+2023-01-27,-3699,transportation,Gasoline expenses
+2023-04-13,-3887,healthcare,Healthcare services
+2022-12-21,-2870,healthcare,Healthcare services
+2022-12-07,-1736,income,salary
+2023-01-24,-4759,transportation,Gasoline expenses
+2022-09-03,-4879,income,salary
+2022-08-11,2891,bills,Phone bill
+2022-11-04,3493,entertainment,Amusement park visit
+2023-04-30,-4749,clothing,Shoe shopping
+2022-11-25,1471,clothing,Clothing purchase
+2022-07-07,-124,transportation,Gasoline expenses
+2022-10-08,356,groceries,Grocery shopping
+2023-03-22,-1646,income,Trade Market
+2022-08-13,-3293,education,Online course payment
+2022-12-02,-2692,entertainment,Amusement park visit
+2023-02-12,-647,bills,Utility bill payment
+2023-04-09,-2577,education,Tuition fees
+2022-10-14,1084,entertainment,Concert tickets
+2022-06-02,3634,transportation,Taxi ride
+2022-08-04,563,income,Trade Market
+2023-02-27,1061,income,Rent
+2022-05-29,2682,groceries,Supermarket purchase
+2022-11-13,4373,entertainment,Amusement park visit
+2022-11-29,-134,income,Rent
+2022-09-18,4711,bills,Internet bill
+2022-10-07,-810,transportation,Gasoline expenses
+2022-07-23,-1248,education,Tuition fees
+2023-02-07,-681,groceries,Grocery shopping
+2023-03-30,3261,bills,Utility bill payment
+2022-11-18,4,bills,Utility bill payment
+2022-09-05,4939,entertainment,Movie tickets
+2022-12-20,270,groceries,Supermarket purchase
+2023-05-15,3575,entertainment,Amusement park visit
+2023-05-02,3209,clothing,Shoe shopping
+2022-12-16,4165,income,Trade Market
+2022-08-18,2846,groceries,Grocery shopping
+2022-11-12,1506,clothing,Clothing purchase
+2023-01-07,1524,bills,Phone bill
+2023-04-09,2053,transportation,Gasoline expenses
+2022-06-13,-3652,groceries,Grocery shopping
+2023-04-01,3517,healthcare,Healthcare services
+2022-07-08,485,entertainment,Concert tickets
+2022-10-11,4664,healthcare,Healthcare services
+2022-11-13,-346,bills,Internet bill
+2023-05-05,2035,education,Tuition fees
+2023-02-27,-70,entertainment,Amusement park visit
+2023-01-09,2530,bills,Internet bill
+2022-10-04,2390,transportation,Gasoline expenses
+2022-09-12,-3212,groceries,Supermarket purchase
+2022-06-28,4129,groceries,Food expenses
+2022-10-30,-294,healthcare,Healthcare services
+2022-08-16,-1951,education,Online course payment
+2022-09-22,2518,entertainment,Amusement park visit
+2022-10-24,4861,education,Tuition fees
+2022-07-06,-4984,groceries,Supermarket purchase
+2022-08-14,3444,education,Online course payment
+2023-05-16,-4010,bills,Internet bill
+2022-08-15,829,income,salary
+2022-10-23,-1762,education,Books and materials
+2022-11-27,-1204,education,Online course payment
+2023-03-06,-1307,entertainment,Amusement park visit
+2023-05-08,-3126,bills,Internet bill
+2022-12-07,4614,clothing,Clothing purchase
+2022-06-16,-979,income,Trade Market
+2023-05-12,4115,healthcare,Pharmacy purchase
+2022-09-04,-2347,education,Online course payment
+2022-09-23,-4702,groceries,Grocery shopping
+2022-08-06,1537,clothing,Shoe shopping
+2023-05-24,-4223,clothing,Fashion accessories
+2022-08-04,-698,education,Online course payment
+2023-04-09,4735,income,salary
+2023-05-02,2690,healthcare,Medical expenses
+2023-01-14,-1415,transportation,Gasoline expenses
+2023-03-22,-902,bills,Internet bill
+2022-09-02,-1255,bills,Utility bill payment
+2023-03-13,-3148,clothing,Clothing purchase
+2023-04-27,1512,groceries,Supermarket purchase
+2023-02-23,2679,transportation,Gasoline expenses
+2022-11-21,-4499,income,salary
+2022-06-09,-1600,clothing,Fashion accessories
+2023-04-07,-721,income,Rent
+2022-10-30,-4585,groceries,Food expenses
+2023-04-08,-3739,transportation,Gasoline expenses
+2022-09-23,-4124,education,Online course payment
+2022-07-18,4642,groceries,Supermarket purchase
+2023-05-17,4346,education,Tuition fees
+2022-11-04,-4768,groceries,Grocery shopping
+2022-08-31,-4507,groceries,Supermarket purchase
+2023-05-06,2043,transportation,Public transportation fare
+2023-03-15,-4723,income,Trade Market
+2022-09-11,-1689,transportation,Public transportation fare
+2022-06-04,3808,entertainment,Movie tickets
+2022-07-18,-3416,education,Books and materials
+2022-07-02,-1785,bills,Internet bill
+2022-10-09,163,groceries,Supermarket purchase
+2023-01-16,-2460,groceries,Food expenses
+2023-01-06,-2119,clothing,Fashion accessories
+2023-05-09,-574,clothing,Fashion accessories
+2023-03-02,-2664,bills,Internet bill
+2023-01-21,-1700,bills,Utility bill payment
+2023-02-03,92,entertainment,Movie tickets
+2022-09-13,414,education,Online course payment
+2022-12-11,-1691,transportation,Taxi ride
+2022-06-25,3262,healthcare,Medical expenses
+2022-06-26,525,entertainment,Amusement park visit
+2022-08-13,496,healthcare,Medical expenses
+2022-11-06,2942,income,Rent
+2022-11-20,-397,healthcare,Pharmacy purchase
+2022-09-10,690,entertainment,Movie tickets
+2023-04-30,2431,clothing,Shoe shopping
+2022-09-12,788,transportation,Public transportation fare
+2022-09-28,1299,healthcare,Pharmacy purchase
+2022-12-01,3067,bills,Internet bill
+2023-05-06,-1669,education,Tuition fees
+2023-02-20,1924,entertainment,Amusement park visit
+2023-05-18,-225,education,Tuition fees
+2022-06-03,-88,clothing,Shoe shopping
+2023-03-17,3917,healthcare,Medical expenses
+2022-11-13,3647,education,Online course payment
+2022-09-16,4942,entertainment,Movie tickets
+2023-01-10,-1809,income,Trade Market
+2023-05-22,-3551,bills,Internet bill
+2023-01-03,-3151,healthcare,Medical expenses
+2022-06-11,2535,income,Trade Market
+2022-07-02,3930,bills,Phone bill
+2022-08-05,-4797,bills,Phone bill
+2022-09-04,-1618,transportation,Gasoline expenses
+2023-03-31,-3543,income,Trade Market
+2022-06-25,-2717,income,Trade Market
+2023-01-07,-3692,education,Books and materials
+2023-04-12,4800,entertainment,Amusement park visit
+2023-02-17,-452,education,Online course payment
+2022-09-07,-835,bills,Internet bill
+2022-10-23,-4201,entertainment,Movie tickets
+2023-04-06,-4086,income,Trade Market
+2023-01-13,-3873,groceries,Supermarket purchase
+2022-08-19,-3395,groceries,Supermarket purchase
+2022-09-29,2106,bills,Utility bill payment
+2023-05-17,711,groceries,Grocery shopping
+2022-11-02,-2105,healthcare,Healthcare services
+2022-09-22,-593,education,Tuition fees
+2022-08-30,-4264,clothing,Clothing purchase
+2023-02-12,-2513,transportation,Gasoline expenses
+2022-12-30,-304,bills,Internet bill
+2023-04-21,-3462,clothing,Clothing purchase
+2023-02-09,-2056,healthcare,Healthcare services
+2022-07-17,-2639,transportation,Public transportation fare
+2023-01-03,3729,bills,Utility bill payment
+2023-01-06,-1025,healthcare,Medical expenses
+2023-02-09,-4545,income,Rent
+2023-04-05,-2620,clothing,Fashion accessories
+2023-05-15,-4215,bills,Utility bill payment
+2022-07-17,-3949,bills,Internet bill
+2023-05-06,-1515,entertainment,Concert tickets
+2023-04-03,3516,income,salary
+2023-04-06,4269,entertainment,Movie tickets
+2022-12-31,-234,transportation,Taxi ride
+2022-09-27,197,clothing,Clothing purchase
+2023-01-31,566,clothing,Clothing purchase
+2023-03-04,-224,clothing,Shoe shopping
+2022-09-14,-621,entertainment,Concert tickets
+2023-03-02,-1990,education,Online course payment
+2023-02-25,-680,education,Books and materials
+2022-08-03,-2015,education,Online course payment
+2022-12-24,894,education,Books and materials
+2023-01-22,-367,groceries,Grocery shopping
+2022-07-06,4283,income,Trade Market
+2022-09-05,1388,clothing,Shoe shopping
+2022-09-27,1902,entertainment,Concert tickets
+2022-12-14,-1954,bills,Internet bill
+2022-10-18,279,transportation,Taxi ride
+2022-08-24,-485,healthcare,Pharmacy purchase
+2023-02-11,-573,entertainment,Amusement park visit
+2023-05-10,1455,education,Online course payment
+2023-01-25,-2165,bills,Utility bill payment
+2022-07-27,4863,education,Tuition fees
+2022-09-09,3571,clothing,Clothing purchase
+2022-10-26,-160,entertainment,Amusement park visit
+2023-02-10,-4928,healthcare,Medical expenses
+2022-08-02,-1610,groceries,Grocery shopping
+2022-12-24,4025,income,Rent
+2022-08-16,-4550,entertainment,Concert tickets
+2022-11-04,-4640,groceries,Food expenses
+2023-03-13,1254,bills,Internet bill
+2022-09-11,1850,clothing,Shoe shopping
+2022-10-05,-4623,transportation,Public transportation fare
+2022-12-13,3469,income,Rent
+2023-01-22,-3934,groceries,Food expenses
+2022-09-04,2009,clothing,Shoe shopping
+2023-05-14,-193,clothing,Shoe shopping
+2022-06-18,-2198,healthcare,Pharmacy purchase
+2023-02-22,-1777,bills,Phone bill
+2022-06-18,-999,clothing,Shoe shopping
+2022-10-18,-1098,income,Rent
+2022-10-01,-444,groceries,Food expenses
+2023-03-31,932,healthcare,Medical expenses
+2022-09-03,1447,clothing,Clothing purchase
+2023-01-16,-1140,entertainment,Movie tickets
+2022-10-05,-3133,entertainment,Amusement park visit
+2022-11-22,125,education,Tuition fees
+2023-01-03,1401,income,Trade Market
+2023-03-02,1780,healthcare,Healthcare services
+2022-09-04,4805,transportation,Gasoline expenses
+2022-07-10,-992,clothing,Shoe shopping
+2022-08-09,1070,clothing,Fashion accessories
+2023-01-30,2943,bills,Internet bill
+2023-03-12,-7,bills,Phone bill
+2022-07-07,-470,education,Books and materials
+2022-08-02,-2471,clothing,Fashion accessories
+2022-11-03,4161,clothing,Shoe shopping
+2023-03-11,-1594,clothing,Shoe shopping
+2022-08-29,-4466,groceries,Grocery shopping
+2023-02-22,380,clothing,Shoe shopping
+2022-06-26,2253,entertainment,Movie tickets
+2022-08-26,1572,clothing,Shoe shopping
+2022-10-30,2352,income,Trade Market
+2023-05-03,-1136,income,salary
+2022-08-06,-871,entertainment,Amusement park visit
+2023-01-02,857,education,Tuition fees
+2022-07-08,-2114,groceries,Grocery shopping
+2022-09-15,-3945,income,salary
+2022-10-24,-565,groceries,Food expenses
+2023-05-12,4175,clothing,Clothing purchase
+2022-08-22,3300,education,Tuition fees
+2022-08-14,-3698,groceries,Food expenses
+2023-01-30,-1257,education,Online course payment
+2022-07-30,-1713,healthcare,Healthcare services
+2023-02-14,933,clothing,Fashion accessories
+2023-02-04,3513,healthcare,Healthcare services
+2022-05-30,-471,groceries,Supermarket purchase
+2023-05-09,1922,bills,Utility bill payment
+2022-11-01,-1105,entertainment,Movie tickets
+2022-10-12,-2919,income,Rent
+2022-07-07,3813,healthcare,Healthcare services
+2023-05-13,1682,income,Rent
+2022-11-12,-1518,entertainment,Movie tickets
+2022-06-28,2410,income,salary
+2023-05-23,4296,entertainment,Amusement park visit
+2022-05-29,1510,groceries,Food expenses
+2022-07-02,-4713,income,salary
+2022-12-08,-4338,education,Online course payment
+2022-12-08,1387,clothing,Fashion accessories
+2023-03-21,-1918,bills,Phone bill
+2022-10-13,4141,bills,Internet bill
+2023-04-25,4719,healthcare,Medical expenses
+2022-11-22,-3962,transportation,Taxi ride
+2023-01-19,2934,groceries,Grocery shopping
+2022-10-06,166,income,Rent
+2022-11-21,2999,entertainment,Amusement park visit
+2022-07-29,3291,clothing,Clothing purchase
+2022-11-22,2418,income,salary
+2023-02-01,-2424,education,Online course payment
+2023-04-21,-3811,groceries,Food expenses
+2022-08-31,-1358,income,Trade Market
+2023-05-23,-2799,entertainment,Concert tickets
+2023-03-14,-2129,income,Trade Market
+2022-08-25,-3029,clothing,Clothing purchase
+2023-01-08,926,clothing,Fashion accessories
+2022-08-02,297,education,Online course payment
+2023-02-15,-1624,education,Books and materials
+2022-09-25,-1696,entertainment,Concert tickets
+2022-05-31,-2106,income,Trade Market
+2022-07-29,-4766,income,salary
+2022-08-21,1758,healthcare,Medical expenses
+2022-12-13,-4214,entertainment,Concert tickets
+2023-02-16,-2837,income,Rent
+2022-07-29,-4653,income,salary
+2022-10-08,2295,education,Tuition fees
+2022-11-23,-1871,bills,Phone bill
+2022-11-10,-1483,healthcare,Healthcare services
+2023-02-19,286,clothing,Shoe shopping
+2023-03-22,-2592,education,Tuition fees
+2023-04-20,4237,income,Rent
+2022-10-28,-258,bills,Phone bill
+2022-08-27,522,entertainment,Amusement park visit
+2022-10-01,1183,bills,Phone bill
+2022-12-08,-13,clothing,Shoe shopping
+2022-09-03,1696,clothing,Fashion accessories
+2022-10-25,-625,bills,Phone bill
+2022-09-17,80,entertainment,Concert tickets
+2023-05-02,-1586,bills,Utility bill payment
+2022-09-23,1839,entertainment,Concert tickets
+2022-09-01,-1135,healthcare,Pharmacy purchase
+2023-05-08,1769,transportation,Gasoline expenses
+2022-07-27,-4173,income,Rent
+2023-02-07,-4487,education,Online course payment
+2022-09-15,239,education,Online course payment
+2022-07-19,-815,transportation,Public transportation fare
+2022-09-15,1681,bills,Utility bill payment
+2023-01-18,4972,transportation,Public transportation fare
+2022-08-19,1958,education,Online course payment
+2023-01-27,-4033,education,Online course payment
+2022-12-30,3986,bills,Phone bill
+2023-04-14,3244,clothing,Shoe shopping
+2023-01-02,4924,healthcare,Pharmacy purchase
+2022-07-23,1362,bills,Internet bill
+2022-06-15,-1321,education,Tuition fees
+2022-09-03,2597,groceries,Food expenses
+2023-01-25,-4608,clothing,Shoe shopping
+2023-02-20,-3821,clothing,Clothing purchase
+2022-06-18,4837,groceries,Food expenses
+2023-05-05,-585,groceries,Grocery shopping
+2023-02-12,-3004,healthcare,Pharmacy purchase
+2023-02-14,2247,education,Online course payment
+2022-07-14,-2924,groceries,Food expenses
+2023-05-04,808,entertainment,Amusement park visit
+2022-11-04,-1449,entertainment,Movie tickets
+2022-08-20,-685,groceries,Supermarket purchase
+2023-05-16,-793,entertainment,Amusement park visit
+2023-04-18,-4952,groceries,Grocery shopping
+2022-12-10,-1329,bills,Utility bill payment
+2022-05-29,-728,healthcare,Medical expenses
+2022-09-29,2314,clothing,Shoe shopping
+2022-11-11,-2820,bills,Internet bill
+2022-10-04,-1795,groceries,Grocery shopping
+2023-01-14,1686,groceries,Grocery shopping
+2023-04-21,4134,groceries,Grocery shopping
+2022-11-24,-3902,bills,Internet bill
+2023-05-08,-2429,education,Tuition fees
+2022-08-13,1110,entertainment,Movie tickets
+2023-01-26,4090,groceries,Food expenses
+2023-01-28,1698,transportation,Public transportation fare
+2023-04-30,3251,entertainment,Movie tickets
+2022-06-09,2971,income,Rent
+2023-03-04,1241,groceries,Grocery shopping
+2022-06-30,2242,transportation,Gasoline expenses
+2022-05-26,2650,groceries,Supermarket purchase
+2022-10-10,1580,healthcare,Healthcare services
+2023-01-24,935,education,Online course payment
+2022-07-07,-3983,entertainment,Movie tickets
+2022-10-28,-4996,groceries,Food expenses
+2023-04-24,264,entertainment,Movie tickets
+2022-08-21,3692,bills,Phone bill
+2022-09-05,2050,education,Online course payment
+2023-03-31,1657,entertainment,Concert tickets
+2023-02-16,1409,groceries,Supermarket purchase
+2023-03-12,-3881,transportation,Public transportation fare
+2022-09-28,4569,groceries,Grocery shopping
+2022-12-02,2072,clothing,Shoe shopping
+2023-04-17,-444,entertainment,Movie tickets
+2022-07-11,-4594,education,Books and materials
+2023-02-16,-2183,clothing,Shoe shopping
+2022-06-27,-576,healthcare,Pharmacy purchase
+2022-07-17,-4947,bills,Internet bill
+2022-08-19,4461,clothing,Clothing purchase
+2022-09-24,3934,healthcare,Pharmacy purchase
+2022-09-29,4909,clothing,Clothing purchase
+2022-06-07,-4481,clothing,Clothing purchase
+2023-02-19,2409,clothing,Clothing purchase
+2022-08-12,4321,education,Tuition fees
+2023-04-14,3653,income,Rent
+2022-12-28,-2199,clothing,Fashion accessories
+2022-11-11,-1178,bills,Utility bill payment
+2022-08-24,-3972,transportation,Taxi ride
+2022-07-31,1368,education,Books and materials
+2023-03-27,-3020,education,Books and materials
+2023-05-01,2910,income,salary
+2022-12-31,-379,transportation,Public transportation fare
+2022-12-06,61,bills,Utility bill payment
+2022-10-15,2638,groceries,Grocery shopping
+2023-05-16,2154,transportation,Gasoline expenses
+2022-10-15,-3054,entertainment,Concert tickets
+2022-12-21,686,groceries,Supermarket purchase
+2022-10-23,-4608,clothing,Shoe shopping
+2022-10-21,3159,clothing,Clothing purchase
+2022-06-04,-3047,clothing,Shoe shopping
+2023-04-04,-2909,income,Trade Market
+2023-01-31,-1791,groceries,Grocery shopping
+2023-03-29,-4643,transportation,Public transportation fare
+2022-09-21,3621,groceries,Food expenses
+2022-06-25,241,transportation,Taxi ride
+2022-08-17,-3738,groceries,Grocery shopping
+2023-01-05,-4127,income,salary
+2022-06-12,4136,healthcare,Medical expenses
+2023-03-19,-1631,income,Trade Market
+2023-02-13,-3710,clothing,Clothing purchase
+2022-08-01,-2256,entertainment,Amusement park visit
+2022-07-10,-909,income,Rent
+2022-06-10,-2088,clothing,Fashion accessories
+2022-11-07,1697,income,salary
+2023-01-21,3930,clothing,Shoe shopping
+2022-12-15,-3062,transportation,Gasoline expenses
+2023-01-03,-3253,education,Tuition fees
+2022-10-22,-2121,education,Tuition fees
+2022-10-11,2650,income,Trade Market
+2022-11-15,-4052,groceries,Food expenses
